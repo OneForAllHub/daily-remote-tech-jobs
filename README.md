@@ -1,6 +1,6 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T06%3A18%3A26Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T06%3A20%3A37Z-brightgreen?style=flat-square)
 ![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-26-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
@@ -51,7 +51,7 @@
 
 ## More Live Trackers & Analytics by OneForAllHub
 
-- 🌐 [**All Trackers Hub**](https://oneforallhub.github.io/) · 📊 [**Live Traffic Analytics Panel**](https://oneforallhub.github.io/panel.html) · 👤 [**GitHub Profile**](https://github.com/OneForAllHub)
+- 🌐 [**All Trackers Hub**](https://oneforallhub.github.io/OneForAllHub/) · 📊 [**Live Traffic Analytics Panel**](https://oneforallhub.github.io/OneForAllHub/panel.html) · 👤 [**GitHub Profile**](https://github.com/OneForAllHub)
 
 - [Free LLM APIs Live](https://github.com/OneForAllHub/free-llm-apis-live) ([Live Dashboard](https://oneforallhub.github.io/free-llm-apis-live/)) — Live verified free AI & LLM API models
 - [LLM Pricing Tracker](https://github.com/OneForAllHub/llm-pricing-tracker) ([Live Dashboard](https://oneforallhub.github.io/llm-pricing-tracker/)) — Daily LLM API token pricing & context comparison
