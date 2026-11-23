@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T06%3A23%3A00Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-26-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T12%3A54%3A10Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-22-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,17 +9,13 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (26)
+## Latest Remote Tech Openings (22)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Hands-on Engineering Manager (C#/Vue)](https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698) | Miaplaza | `Frontend` | Remote job | Not specified | 2026-11-23 |
-| [Java Entwickler:in / Java Developer Backend (w/m/d)](https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-entwicklerin-java-developer-backend-munster-85293) | BBHT Beratungsgesellschaft… | `Backend` | Homeoffice | Not specified | 2026-11-23 |
-| [Engineering Manager EU/UK (m/f/x)](https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-eu-uk-berlin-491641) | Makersite GmbH | `Engineering` | Remote job | Not specified | 2026-11-22 |
-| [Senior Data Scientist - Research EU/UK (m/f/x)](https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-88725) | Makersite GmbH | `AI / ML` | Remote job | Not specified | 2026-11-22 |
-| [Kubernetes Administrator/Private Cloud Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-311574) | virtual7 GmbH | `DevOps / Cloud` | Homeoffice | Not specified | 2026-11-22 |
-| [Anwendungsspezialist im Außendienst Baden-Württemberg…](https://www.arbeitnow.com/jobs/companies/buzil-werk-wagner-gmbh-co-kg/anwendungsspezialist-im-aussendienst-baden-wurttemberg-memmingen-383486) | BUZIL-WERK Wagner GmbH & Co… | `Engineering` | Memmingen | Not specified | 2026-11-22 |
-| [Business Developer / Sales Manager - Robotics (m/w/d)](https://www.arbeitnow.com/jobs/companies/tekpoint-gmbh/business-developer-sales-manager-robotics-berlin-42926) | TEKPOINT GmbH | `Engineering` | Berlin | Not specified | 2026-11-22 |
+| [Senior Full-Stack Developer (m/w/d) – Schwerpunkt Type…](https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/senior-full-stack-developer-schwerpunkt-typescript-saas-plattform-berlin-282775) | IT Studio Rech GmbH | `Full-Stack` | Berlin | Not specified | 2026-11-23 |
+| [Selbstständiger Flächenakquisiteur (m/w/d) – Erneuerba…](https://www.arbeitnow.com/jobs/companies/nexun/selbststandiger-flachenakquisiteur-erneuerbare-energien-berlin-202297) | Nexun | `Engineering` | Berlin | Not specified | 2026-11-23 |
+| [Freelance Product Manager – AI for Quality & Regulatory](https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759) | Acodis AG | `AI / ML` | Zürich | Not specified | 2026-11-23 |
 | [Senior Cloud Operations Engineer (all genders) CH](https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018) | BSI Software | `DevOps / Cloud` | Homeoffice | Not specified | 2026-11-22 |
 | [Software Test Engineer](https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215) | SwissPeak Partners GmbH | `Engineering` | Remote job | Not specified | 2026-11-22 |
 | [Principal Enterprise Architect - AI & Cloud Integratio…](https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065) | celonis | `AI / ML` | Remote | Not specified | 2026-11-21 |
