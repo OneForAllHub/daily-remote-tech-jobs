@@ -1,0 +1,292 @@
+{
+  "updated_at": "2026-11-23T06:16:03Z",
+  "count": 26,
+  "jobs": [
+    {
+      "title": "Hands-on Engineering Manager (C#/Vue)",
+      "company": "Miaplaza",
+      "role_group": "Frontend",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Remote",
+      "published_at": "2026-11-23",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "role_group": "Backend",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Remote",
+      "published_at": "2026-11-23",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-entwicklerin-java-developer-backend-munster-85293",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Engineering Manager EU/UK (m/f/x)",
+      "company": "Makersite GmbH",
+      "role_group": "Engineering",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Technology, Remote",
+      "published_at": "2026-11-22",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-eu-uk-berlin-491641",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Data Scientist - Research EU/UK (m/f/x)",
+      "company": "Makersite GmbH",
+      "role_group": "AI / ML",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Technology, Remote",
+      "published_at": "2026-11-22",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-88725",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "role_group": "DevOps / Cloud",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Customer Cluster Justice, Remote",
+      "published_at": "2026-11-22",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-311574",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Anwendungsspezialist im Außendienst Baden-Württemberg (m/w/d)",
+      "company": "BUZIL-WERK Wagner GmbH & Co. KG",
+      "role_group": "Engineering",
+      "location": "Memmingen",
+      "salary": "Not specified",
+      "tags": "Remote, Sales Engineer",
+      "published_at": "2026-11-22",
+      "url": "https://www.arbeitnow.com/jobs/companies/buzil-werk-wagner-gmbh-co-kg/anwendungsspezialist-im-aussendienst-baden-wurttemberg-memmingen-383486",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Business Developer / Sales Manager - Robotics (m/w/d)",
+      "company": "TEKPOINT GmbH",
+      "role_group": "Engineering",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Business Development",
+      "published_at": "2026-11-22",
+      "url": "https://www.arbeitnow.com/jobs/companies/tekpoint-gmbh/business-developer-sales-manager-robotics-berlin-42926",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Cloud Operations Engineer (all genders) CH",
+      "company": "BSI Software",
+      "role_group": "DevOps / Cloud",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Services, Remote",
+      "published_at": "2026-11-22",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "role_group": "Engineering",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Software Engineering, Remote",
+      "published_at": "2026-11-22",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Principal Enterprise Architect - AI & Cloud Integrations",
+      "company": "celonis",
+      "role_group": "AI / ML",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "Value Engineering",
+      "published_at": "2026-11-21",
+      "url": "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Backend Software Developer",
+      "company": "Dawn Technology",
+      "role_group": "Backend",
+      "location": "Werken op afstand",
+      "salary": "Not specified",
+      "tags": "Dawn Technology, Remote",
+      "published_at": "2026-11-20",
+      "url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "role_group": "AI / ML",
+      "location": "USA",
+      "salary": "$14/hour",
+      "tags": "android, ios, social media, teaching, AI/ML",
+      "published_at": "2026-11-19",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
+      "source": "Remotive"
+    },
+    {
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "role_group": "AI / ML",
+      "location": "USA, Canada, USA timezones",
+      "salary": "$170k - $200k",
+      "tags": "api, CSS, docker, elasticsearch, fullstack",
+      "published_at": "2026-11-14",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive"
+    },
+    {
+      "title": "Content Creator - YouTube",
+      "company": "Metics Media",
+      "role_group": "AI / ML",
+      "location": "USA, Canada",
+      "salary": "$85k - $155k",
+      "tags": "ecommerce, shopify, video, AI/ML, research",
+      "published_at": "2026-11-13",
+      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
+      "source": "Remotive"
+    },
+    {
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies",
+      "role_group": "AI / ML",
+      "location": "Worldwide",
+      "salary": "$35,3k- $52k",
+      "tags": "CSS, excel, frontend, git, html",
+      "published_at": "2026-11-11",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Lemon.io",
+      "role_group": "DevOps / Cloud",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "salary": "Not specified",
+      "tags": ".Net, android, apache, AWS, azure",
+      "published_at": "2026-11-11",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+      "source": "Remotive"
+    },
+    {
+      "title": "Customer Service Representative",
+      "company": "ShyftOff",
+      "role_group": "AI / ML",
+      "location": "USA",
+      "salary": "$14 - $20/hour",
+      "tags": "video, healthcare, retail, onboarding, financial services",
+      "published_at": "2026-11-11",
+      "url": "https://remotive.com/remote-jobs/customer-service/customer-service-representative-2091171",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "role_group": "DevOps / Cloud",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "salary": "Not specified",
+      "tags": ".Net, android, AWS, azure, C",
+      "published_at": "2026-11-10",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "source": "Remotive"
+    },
+    {
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "role_group": "Engineering",
+      "location": "Worldwide",
+      "salary": "OTE $25k - $35k",
+      "tags": "CRM, google sheets, financial services, Inside Sales",
+      "published_at": "2026-11-08",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "source": "Remotive"
+    },
+    {
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "role_group": "Engineering",
+      "location": "Worldwide",
+      "salary": "Not specified",
+      "tags": "azure, cisco, security, video, documentation",
+      "published_at": "2026-11-07",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "source": "Remotive"
+    },
+    {
+      "title": "US Remote Patient Care Advocate (Customer Service)",
+      "company": "VXI Global Solutions",
+      "role_group": "Engineering",
+      "location": "USA",
+      "salary": "$25k - $35k",
+      "tags": "healthcare, insurance",
+      "published_at": "2026-11-06",
+      "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
+      "source": "Remotive"
+    },
+    {
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "role_group": "Engineering",
+      "location": "Worldwide",
+      "salary": "$50-$75 /hour",
+      "tags": "REST",
+      "published_at": "2026-11-04",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "Remotive"
+    },
+    {
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies",
+      "role_group": "Engineering",
+      "location": "Worldwide",
+      "salary": "$20k -$35k",
+      "tags": "accounting, excel, research, data analysis, bookkeeping",
+      "published_at": "2026-11-02",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "source": "Remotive"
+    },
+    {
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "role_group": "DevOps / Cloud",
+      "location": "Worldwide",
+      "salary": "$3.5k–$5k/month",
+      "tags": "admin, api, AWS, backend, cloud",
+      "published_at": "2026-10-29",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "source": "Remotive"
+    },
+    {
+      "title": "Senior Back-end Developer",
+      "company": "Lemon.io",
+      "role_group": "Backend",
+      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
+      "salary": "Not specified",
+      "tags": ".Net, android, C, C#, C++",
+      "published_at": "2026-10-27",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "source": "Remotive"
+    },
+    {
+      "title": "AI Trainer - Video Annotation",
+      "company": "iMerit Technology",
+      "role_group": "AI / ML",
+      "location": "Worldwide",
+      "salary": "70K-80K",
+      "tags": "video, AI/ML, robotics",
+      "published_at": "2026-10-22",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "source": "Remotive"
+    }
+  ]
+}
