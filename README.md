@@ -1,6 +1,6 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T12%3A54%3A10Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T17%3A30%3A21Z-brightgreen?style=flat-square)
 ![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-22-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
@@ -13,13 +13,14 @@
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Senior Full-Stack Developer (m/w/d) – Schwerpunkt Type…](https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/senior-full-stack-developer-schwerpunkt-typescript-saas-plattform-berlin-282775) | IT Studio Rech GmbH | `Full-Stack` | Berlin | Not specified | 2026-11-23 |
-| [Selbstständiger Flächenakquisiteur (m/w/d) – Erneuerba…](https://www.arbeitnow.com/jobs/companies/nexun/selbststandiger-flachenakquisiteur-erneuerbare-energien-berlin-202297) | Nexun | `Engineering` | Berlin | Not specified | 2026-11-23 |
+| [Founding Full-Stack Engineer](https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822) | planqor.ai | `Full-Stack` | Berlin | Not specified | 2026-11-23 |
+| [Founding Optimization Engineer](https://www.arbeitnow.com/jobs/companies/planqorai/founding-optimization-engineer-berlin-97593) | planqor.ai | `Engineering` | Berlin | Not specified | 2026-11-23 |
+| [FP&A Specialist, AI Expert (Remote, EMEA)](https://www.arbeitnow.ch/jobs/companies/weekday-1/fpa-specialist-ai-expert-remote-emea-switzerland-70963) | Weekday 1 | `AI / ML` | Switzerland | Not specified | 2026-11-23 |
 | [Freelance Product Manager – AI for Quality & Regulatory](https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759) | Acodis AG | `AI / ML` | Zürich | Not specified | 2026-11-23 |
+| [AI Engineer](https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-ai-engineer-rotterdam-22878) | AnywhereNow | `AI / ML` | Remote job | Not specified | 2026-11-23 |
 | [Senior Cloud Operations Engineer (all genders) CH](https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018) | BSI Software | `DevOps / Cloud` | Homeoffice | Not specified | 2026-11-22 |
 | [Software Test Engineer](https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215) | SwissPeak Partners GmbH | `Engineering` | Remote job | Not specified | 2026-11-22 |
 | [Principal Enterprise Architect - AI & Cloud Integratio…](https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065) | celonis | `AI / ML` | Remote | Not specified | 2026-11-21 |
-| [Backend Software Developer](https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173) | Dawn Technology | `Backend` | Werken op afstand | Not specified | 2026-11-20 |
 | [Content Reviewer - United States](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177) | TELUS Digital | `AI / ML` | USA | $14/hour | 2026-11-19 |
 | [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746) | Mitre Media | `AI / ML` | USA, Canada, USA timezo… | $170k - $200k | 2026-11-14 |
 | [Content Creator - YouTube](https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173) | Metics Media | `AI / ML` | USA, Canada | $85k - $155k | 2026-11-13 |
@@ -33,8 +34,7 @@
 | [Freelance Writer](https://remotive.com/remote-jobs/writing/freelance-writer-1185979) | IAPWE | `Engineering` | Worldwide | $50-$75 /hour | 2026-11-04 |
 | [Freelance Copywriter](https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306) | Coalition Technologies | `Engineering` | Worldwide | $20k -$35k | 2026-11-02 |
 | [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) | Fluence International, Inc. | `DevOps / Cloud` | Worldwide | $3.5k–$5k/month | 2026-10-29 |
-| [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135) | Lemon.io | `Backend` | Europe, USA, Canada, Au… | Not specified | 2026-10-27 |
-| [AI Trainer - Video Annotation](https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161) | iMerit Technology | `AI / ML` | Worldwide | 70K-80K | 2026-10-22 |
+| [Senior Back-end Developerusa](https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135) | Lemon.io | `Backend` | Europe, USA, Canada, Au… | Not specified | 2026-10-27 |
 
 ## Dedicated Topic & SEO Pages
 

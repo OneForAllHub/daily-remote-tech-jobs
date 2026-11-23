@@ -1,27 +1,38 @@
 {
-  "updated_at": "2026-11-23T12:54:10Z",
+  "updated_at": "2026-11-23T17:30:21Z",
   "count": 22,
   "jobs": [
     {
-      "title": "Senior Full-Stack Developer (m/w/d) – Schwerpunkt TypeScript & SaaS-Plattform",
-      "company": "IT Studio Rech GmbH",
+      "title": "Founding Full-Stack Engineer",
+      "company": "planqor.ai",
       "role_group": "Full-Stack",
       "location": "Berlin",
       "salary": "Not specified",
       "tags": "Remote, Software Development",
       "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/senior-full-stack-developer-schwerpunkt-typescript-saas-plattform-berlin-282775",
+      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822",
       "source": "Arbeitnow"
     },
     {
-      "title": "Selbstständiger Flächenakquisiteur (m/w/d) – Erneuerbare Energien",
-      "company": "Nexun",
+      "title": "Founding Optimization Engineer",
+      "company": "planqor.ai",
       "role_group": "Engineering",
       "location": "Berlin",
       "salary": "Not specified",
-      "tags": "Remote, Power Engineering and Environmental Engineering",
+      "tags": "Remote, Software Development",
       "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.com/jobs/companies/nexun/selbststandiger-flachenakquisiteur-erneuerbare-energien-berlin-202297",
+      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-optimization-engineer-berlin-97593",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "FP&A Specialist, AI Expert (Remote, EMEA)",
+      "company": "Weekday 1",
+      "role_group": "AI / ML",
+      "location": "Switzerland",
+      "salary": "Not specified",
+      "tags": "AI Training, Remote",
+      "published_at": "2026-11-23",
+      "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/fpa-specialist-ai-expert-remote-emea-switzerland-70963",
       "source": "Arbeitnow"
     },
     {
@@ -33,6 +44,17 @@
       "tags": "Remote, Product Management",
       "published_at": "2026-11-23",
       "url": "https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "AnywhereNow",
+      "role_group": "AI / ML",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Product Development, Remote",
+      "published_at": "2026-11-23",
+      "url": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-ai-engineer-rotterdam-22878",
       "source": "Arbeitnow"
     },
     {
@@ -66,17 +88,6 @@
       "tags": "Value Engineering",
       "published_at": "2026-11-21",
       "url": "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Backend Software Developer",
-      "company": "Dawn Technology",
-      "role_group": "Backend",
-      "location": "Werken op afstand",
-      "salary": "Not specified",
-      "tags": "Dawn Technology, Remote",
-      "published_at": "2026-11-20",
-      "url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
       "source": "Arbeitnow"
     },
     {
@@ -223,25 +234,14 @@
       "source": "Remotive"
     },
     {
-      "title": "Senior Back-end Developer",
+      "title": "Senior Back-end Developerusa",
       "company": "Lemon.io",
       "role_group": "Backend",
       "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
       "salary": "Not specified",
       "tags": ".Net, android, C, C#, C++",
       "published_at": "2026-10-27",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
-      "source": "Remotive"
-    },
-    {
-      "title": "AI Trainer - Video Annotation",
-      "company": "iMerit Technology",
-      "role_group": "AI / ML",
-      "location": "Worldwide",
-      "salary": "70K-80K",
-      "tags": "video, AI/ML, robotics",
-      "published_at": "2026-10-22",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
       "source": "Remotive"
     }
   ]
