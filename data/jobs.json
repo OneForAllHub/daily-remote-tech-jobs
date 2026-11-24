@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-11-24T00:41:34Z",
+  "updated_at": "2026-11-24T06:52:26Z",
   "count": 27,
   "jobs": [
+    {
+      "title": "Senior Web Compatibility Engineer",
+      "company": "Duck Duck Go",
+      "role_group": "Engineering",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "Engineering",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-285874",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Privacy Engineer",
+      "company": "Duck Duck Go",
+      "role_group": "Engineering",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "Engineering",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-269228",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Fullstack Engineer (all genders) mit Fokus C# / React (all genders) - 100 % Remote",
+      "company": "Iits",
+      "role_group": "DevOps / Cloud",
+      "location": "Remote Deutschland",
+      "salary": "Not specified",
+      "tags": "Backend, Softwareentwicklung, Cloud, Agentic Coding, C#",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/iits/senior-fullstack-engineer-all-genders-mit-fokus-c-react-all-genders-100-remote-256885",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Devops Engineer (100% Remote, Worldwide)",
+      "company": "Tether Operations Limited",
+      "role_group": "DevOps / Cloud",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Engineering, Remote",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-devops-engineer-100-remote-worldwide-london-168519",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Staff Product Engineer ( SaaS / Remote )",
+      "company": "Publitas.com B.V.",
+      "role_group": "Engineering",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Product, Remote",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Kundenbetreuung, Genehmigungs- & Trainingsmanagement (m/w/d) – Drohnen im professionellen Einsatz",
       "company": "U-ROB GmbH",
@@ -33,50 +88,6 @@
       "tags": "Software, Remote",
       "published_at": "2026-11-23",
       "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "SAP Consultant ERP/EWM/Utilities – Data Migration (m/w/d)",
-      "company": "Natuvion GmbH",
-      "role_group": "Engineering",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Technical Migration, Remote",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-consultant-erp-ewm-utilities-data-migration-berlin-218841",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) SAP ABAP Developer/ Architect – Technical Migration (m/w/d)",
-      "company": "Natuvion GmbH",
-      "role_group": "Engineering",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Technical Migration, Remote",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-technical-migration-berlin-269633",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Founding Full-Stack Engineer",
-      "company": "planqor.ai",
-      "role_group": "Full-Stack",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, Software Development",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Founding Optimization Engineer",
-      "company": "planqor.ai",
-      "role_group": "Engineering",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, Software Development",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-optimization-engineer-berlin-97593",
       "source": "Arbeitnow"
     },
     {
@@ -132,17 +143,6 @@
       "tags": "Software Engineering, Remote",
       "published_at": "2026-11-22",
       "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Principal Enterprise Architect - AI & Cloud Integrations",
-      "company": "celonis",
-      "role_group": "AI / ML",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Value Engineering",
-      "published_at": "2026-11-21",
-      "url": "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065",
       "source": "Arbeitnow"
     },
     {

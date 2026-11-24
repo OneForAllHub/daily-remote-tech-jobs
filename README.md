@@ -1,6 +1,6 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--24T00%3A41%3A34Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--24T06%3A52%3A26Z-brightgreen?style=flat-square)
 ![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-27-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
@@ -13,19 +13,19 @@
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [Senior Web Compatibility Engineer](https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-285874) | Duck Duck Go | `Engineering` | Remote | Not specified | 2026-11-24 |
+| [Senior Privacy Engineer](https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-269228) | Duck Duck Go | `Engineering` | Remote | Not specified | 2026-11-24 |
+| [Senior Fullstack Engineer (all genders) mit Fokus C# /…](https://www.arbeitnow.com/jobs/companies/iits/senior-fullstack-engineer-all-genders-mit-fokus-c-react-all-genders-100-remote-256885) | Iits | `DevOps / Cloud` | Remote Deutschland | Not specified | 2026-11-24 |
+| [Senior Devops Engineer (100% Remote, Worldwide)](https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-devops-engineer-100-remote-worldwide-london-168519) | Tether Operations Limited | `DevOps / Cloud` | Remote job | Not specified | 2026-11-24 |
+| [Staff Product Engineer ( SaaS / Remote )](https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256) | Publitas.com B.V. | `Engineering` | Remote job | Not specified | 2026-11-24 |
 | [Kundenbetreuung, Genehmigungs- & Trainingsmanagement (…](https://www.arbeitnow.com/jobs/companies/u-rob-gmbh/kundenbetreuung-genehmigungs-trainingsmanagement-drohnen-im-professionellen-einsatz-berlin-87087) | U-ROB GmbH | `AI / ML` | Berlin | Not specified | 2026-11-23 |
 | [Senior Verification Engineer Autonomy Systems – Land D…](https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-senior-verification-engineer-autonomy-systems-land-domain-gilching-304071) | Quantum-Systems GmbH | `AI / ML` | Remote job | Not specified | 2026-11-23 |
 | [Test Engineer HIL Autonomy Systems – Land Domain (m/f/…](https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479) | Quantum-Systems GmbH | `AI / ML` | Remote job | Not specified | 2026-11-23 |
-| [SAP Consultant ERP/EWM/Utilities – Data Migration (m/w…](https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-consultant-erp-ewm-utilities-data-migration-berlin-218841) | Natuvion GmbH | `Engineering` | Remote job | Not specified | 2026-11-23 |
-| [(Senior) SAP ABAP Developer/ Architect – Technical Mig…](https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-technical-migration-berlin-269633) | Natuvion GmbH | `Engineering` | Remote job | Not specified | 2026-11-23 |
-| [Founding Full-Stack Engineer](https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822) | planqor.ai | `Full-Stack` | Berlin | Not specified | 2026-11-23 |
-| [Founding Optimization Engineer](https://www.arbeitnow.com/jobs/companies/planqorai/founding-optimization-engineer-berlin-97593) | planqor.ai | `Engineering` | Berlin | Not specified | 2026-11-23 |
 | [FP&A Specialist, AI Expert (Remote, EMEA)](https://www.arbeitnow.ch/jobs/companies/weekday-1/fpa-specialist-ai-expert-remote-emea-switzerland-70963) | Weekday 1 | `AI / ML` | Switzerland | Not specified | 2026-11-23 |
 | [Freelance Product Manager – AI for Quality & Regulatory](https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759) | Acodis AG | `AI / ML` | Zürich | Not specified | 2026-11-23 |
 | [AI Engineer](https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-ai-engineer-rotterdam-22878) | AnywhereNow | `AI / ML` | Remote job | Not specified | 2026-11-23 |
 | [Senior Cloud Operations Engineer (all genders) CH](https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018) | BSI Software | `DevOps / Cloud` | Homeoffice | Not specified | 2026-11-22 |
 | [Software Test Engineer](https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215) | SwissPeak Partners GmbH | `Engineering` | Remote job | Not specified | 2026-11-22 |
-| [Principal Enterprise Architect - AI & Cloud Integratio…](https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065) | celonis | `AI / ML` | Remote | Not specified | 2026-11-21 |
 | [Content Reviewer - United States](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177) | TELUS Digital | `AI / ML` | USA | $14/hour | 2026-11-19 |
 | [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746) | Mitre Media | `AI / ML` | USA, Canada, USA timezo… | $170k - $200k | 2026-11-14 |
 | [Content Creator - YouTube](https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173) | Metics Media | `AI / ML` | USA, Canada | $85k - $155k | 2026-11-13 |
