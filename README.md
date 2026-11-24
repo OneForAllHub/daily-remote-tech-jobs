@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T18%3A44%3A09Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-22-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--24T00%3A41%3A34Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-27-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,10 +9,15 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (22)
+## Latest Remote Tech Openings (27)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [Kundenbetreuung, Genehmigungs- & Trainingsmanagement (…](https://www.arbeitnow.com/jobs/companies/u-rob-gmbh/kundenbetreuung-genehmigungs-trainingsmanagement-drohnen-im-professionellen-einsatz-berlin-87087) | U-ROB GmbH | `AI / ML` | Berlin | Not specified | 2026-11-23 |
+| [Senior Verification Engineer Autonomy Systems – Land D…](https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-senior-verification-engineer-autonomy-systems-land-domain-gilching-304071) | Quantum-Systems GmbH | `AI / ML` | Remote job | Not specified | 2026-11-23 |
+| [Test Engineer HIL Autonomy Systems – Land Domain (m/f/…](https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479) | Quantum-Systems GmbH | `AI / ML` | Remote job | Not specified | 2026-11-23 |
+| [SAP Consultant ERP/EWM/Utilities – Data Migration (m/w…](https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-consultant-erp-ewm-utilities-data-migration-berlin-218841) | Natuvion GmbH | `Engineering` | Remote job | Not specified | 2026-11-23 |
+| [(Senior) SAP ABAP Developer/ Architect – Technical Mig…](https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-technical-migration-berlin-269633) | Natuvion GmbH | `Engineering` | Remote job | Not specified | 2026-11-23 |
 | [Founding Full-Stack Engineer](https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822) | planqor.ai | `Full-Stack` | Berlin | Not specified | 2026-11-23 |
 | [Founding Optimization Engineer](https://www.arbeitnow.com/jobs/companies/planqorai/founding-optimization-engineer-berlin-97593) | planqor.ai | `Engineering` | Berlin | Not specified | 2026-11-23 |
 | [FP&A Specialist, AI Expert (Remote, EMEA)](https://www.arbeitnow.ch/jobs/companies/weekday-1/fpa-specialist-ai-expert-remote-emea-switzerland-70963) | Weekday 1 | `AI / ML` | Switzerland | Not specified | 2026-11-23 |

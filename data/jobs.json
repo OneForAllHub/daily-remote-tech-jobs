@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-11-23T18:44:09Z",
-  "count": 22,
+  "updated_at": "2026-11-24T00:41:34Z",
+  "count": 27,
   "jobs": [
+    {
+      "title": "Kundenbetreuung, Genehmigungs- & Trainingsmanagement (m/w/d) – Drohnen im professionellen Einsatz",
+      "company": "U-ROB GmbH",
+      "role_group": "AI / ML",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Customer Service",
+      "published_at": "2026-11-23",
+      "url": "https://www.arbeitnow.com/jobs/companies/u-rob-gmbh/kundenbetreuung-genehmigungs-trainingsmanagement-drohnen-im-professionellen-einsatz-berlin-87087",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Verification Engineer Autonomy Systems – Land Domain (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "role_group": "AI / ML",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Software, Remote",
+      "published_at": "2026-11-23",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-senior-verification-engineer-autonomy-systems-land-domain-gilching-304071",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Test Engineer HIL Autonomy Systems – Land Domain (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "role_group": "AI / ML",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Software, Remote",
+      "published_at": "2026-11-23",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "SAP Consultant ERP/EWM/Utilities – Data Migration (m/w/d)",
+      "company": "Natuvion GmbH",
+      "role_group": "Engineering",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Technical Migration, Remote",
+      "published_at": "2026-11-23",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-consultant-erp-ewm-utilities-data-migration-berlin-218841",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Senior) SAP ABAP Developer/ Architect – Technical Migration (m/w/d)",
+      "company": "Natuvion GmbH",
+      "role_group": "Engineering",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Technical Migration, Remote",
+      "published_at": "2026-11-23",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-technical-migration-berlin-269633",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Founding Full-Stack Engineer",
       "company": "planqor.ai",
