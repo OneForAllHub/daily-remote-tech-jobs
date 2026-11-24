@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-11-24T06:52:26Z",
-  "count": 27,
+  "updated_at": "2026-11-24T12:54:11Z",
+  "count": 32,
   "jobs": [
+    {
+      "title": "Java Backend Developer (m/w/d) – AdTech, Spring Boot & AI",
+      "company": "streamboost GmbH",
+      "role_group": "AI / ML",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Software Development",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/streamboost-gmbh/java-backend-developer-adtech-spring-boot-ai-berlin-450330",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Java Software Architect mit GKV Erfahrung (m/w/d)",
+      "company": "virtual7 GmbH",
+      "role_group": "Backend",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Customer Cluster Healthcare, Remote",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-software-architect-mit-gkv-erfahrung-essen-189341",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Java Developer im GKV Umfeld (m/w/d)",
+      "company": "virtual7 GmbH",
+      "role_group": "Backend",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Customer Cluster Healthcare, Remote",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-developer-im-gkv-umfeld-karlsruhe-309214",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Developer Community Lead",
+      "company": "RhymeQ Technologies GmbH",
+      "role_group": "Engineering",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Social Media Manager",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/rhymeq-technologies-gmbh/developer-community-lead-berlin-292234",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Quantum Compiler Engineer (m/f/d)",
+      "company": "RhymeQ Technologies GmbH",
+      "role_group": "Engineering",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Software Development",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/rhymeq-technologies-gmbh/quantum-compiler-engineer-berlin-52057",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
+      "company": "hurra.com",
+      "role_group": "AI / ML",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Software Development",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-berlin-290567",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Full-Stack Developer (m/w/d) – Java/Spring Boot & TypeScript",
+      "company": "P&T Software",
+      "role_group": "Full-Stack",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Software Development",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/pt-software/full-stack-developer-java-spring-boot-typescript-berlin-318262",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Praktikum PreSales AI Scale Up (m/w/d)",
+      "company": "Flip GmbH",
+      "role_group": "AI / ML",
+      "location": "Remote (Germany)",
+      "salary": "Not specified",
+      "tags": "Sales",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/remote-praktikum-presales-ai-scale-up-43058",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Senior Web Compatibility Engineer",
       "company": "Duck Duck Go",
@@ -25,25 +113,36 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Fullstack Engineer (all genders) mit Fokus C# / React (all genders) - 100 % Remote",
-      "company": "Iits",
-      "role_group": "DevOps / Cloud",
-      "location": "Remote Deutschland",
+      "title": "Music Community Ambassador | First Chair Programme",
+      "company": "Matchspace (Music) AG",
+      "role_group": "AI / ML",
+      "location": "London",
       "salary": "Not specified",
-      "tags": "Backend, Softwareentwicklung, Cloud, Agentic Coding, C#",
+      "tags": "Remote, Trade Marketing",
       "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/iits/senior-fullstack-engineer-all-genders-mit-fokus-c-react-all-genders-100-remote-256885",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/matchspace-music-ag/music-community-ambassador-first-chair-programme-london-313320",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Devops Engineer (100% Remote, Worldwide)",
-      "company": "Tether Operations Limited",
-      "role_group": "DevOps / Cloud",
-      "location": "Remote job",
+      "title": "PKI & IAM Engineer",
+      "company": "Coopers Group AG",
+      "role_group": "Engineering",
+      "location": "Zürich",
       "salary": "Not specified",
-      "tags": "Engineering, Remote",
+      "tags": "Remote, IT Security",
       "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-devops-engineer-100-remote-worldwide-london-168519",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/pki-iam-engineer-zurich-300405",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Solution Architect Customer Touchpoints & Cloud Transformation",
+      "company": "Coopers Group AG",
+      "role_group": "DevOps / Cloud",
+      "location": "Zürich",
+      "salary": "Not specified",
+      "tags": "Remote, Software Development",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/solution-architect-customer-touchpoints-cloud-transformation-zurich-258035",
       "source": "Arbeitnow"
     },
     {
@@ -55,39 +154,6 @@
       "tags": "Product, Remote",
       "published_at": "2026-11-24",
       "url": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Kundenbetreuung, Genehmigungs- & Trainingsmanagement (m/w/d) – Drohnen im professionellen Einsatz",
-      "company": "U-ROB GmbH",
-      "role_group": "AI / ML",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, Customer Service",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.com/jobs/companies/u-rob-gmbh/kundenbetreuung-genehmigungs-trainingsmanagement-drohnen-im-professionellen-einsatz-berlin-87087",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Verification Engineer Autonomy Systems – Land Domain (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "role_group": "AI / ML",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Software, Remote",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-senior-verification-engineer-autonomy-systems-land-domain-gilching-304071",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Test Engineer HIL Autonomy Systems – Land Domain (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "role_group": "AI / ML",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Software, Remote",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479",
       "source": "Arbeitnow"
     },
     {
@@ -132,17 +198,6 @@
       "tags": "Services, Remote",
       "published_at": "2026-11-22",
       "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Software Test Engineer",
-      "company": "SwissPeak Partners GmbH",
-      "role_group": "Engineering",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Software Engineering, Remote",
-      "published_at": "2026-11-22",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215",
       "source": "Arbeitnow"
     },
     {
