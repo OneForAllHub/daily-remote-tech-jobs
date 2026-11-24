@@ -1,115 +1,71 @@
 {
-  "updated_at": "2026-11-24T12:54:11Z",
-  "count": 32,
+  "updated_at": "2026-11-24T18:43:35Z",
+  "count": 25,
   "jobs": [
     {
-      "title": "Java Backend Developer (m/w/d) – AdTech, Spring Boot & AI",
-      "company": "streamboost GmbH",
-      "role_group": "AI / ML",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, Software Development",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/streamboost-gmbh/java-backend-developer-adtech-spring-boot-ai-berlin-450330",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Java Software Architect mit GKV Erfahrung (m/w/d)",
-      "company": "virtual7 GmbH",
-      "role_group": "Backend",
-      "location": "Homeoffice",
-      "salary": "Not specified",
-      "tags": "Customer Cluster Healthcare, Remote",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-software-architect-mit-gkv-erfahrung-essen-189341",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Java Developer im GKV Umfeld (m/w/d)",
-      "company": "virtual7 GmbH",
-      "role_group": "Backend",
-      "location": "Homeoffice",
-      "salary": "Not specified",
-      "tags": "Customer Cluster Healthcare, Remote",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-developer-im-gkv-umfeld-karlsruhe-309214",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Developer Community Lead",
-      "company": "RhymeQ Technologies GmbH",
-      "role_group": "Engineering",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, Social Media Manager",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/rhymeq-technologies-gmbh/developer-community-lead-berlin-292234",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Quantum Compiler Engineer (m/f/d)",
-      "company": "RhymeQ Technologies GmbH",
+      "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
+      "company": "ALPHA Software GmbH",
       "role_group": "Engineering",
       "location": "Berlin",
       "salary": "Not specified",
       "tags": "Remote, Software Development",
       "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/rhymeq-technologies-gmbh/quantum-compiler-engineer-berlin-52057",
+      "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-260267",
       "source": "Arbeitnow"
     },
     {
-      "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
-      "company": "hurra.com",
+      "title": "Partner(m/w/d): Für Interim Manager und Berater: Mandate im Retainer statt Projekte im Tagessatz",
+      "company": "VOVOI GmbH",
       "role_group": "AI / ML",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Business Consulting",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/vovoi-gmbh/partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-420246",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Marketer, AI Expert (Remote, EMEA)",
+      "company": "Weekday 1",
+      "role_group": "AI / ML",
+      "location": "Germany",
+      "salary": "Not specified",
+      "tags": "AI Training, Remote",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/weekday-1/senior-marketer-ai-expert-remote-emea-germany-468493",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "FP&A Specialist, AI Expert (Remote, EMEA)",
+      "company": "Weekday 1",
+      "role_group": "AI / ML",
+      "location": "Germany",
+      "salary": "Not specified",
+      "tags": "AI Training, Remote",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/weekday-1/fpa-specialist-ai-expert-remote-emea-germany-269881",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Forward Deployed Engineer (m/w/d)- Certil",
+      "company": "Neurawork GmbH & Co. KG",
+      "role_group": "Engineering",
       "location": "Berlin",
       "salary": "Not specified",
       "tags": "Remote, Software Development",
       "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-berlin-290567",
+      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/forward-deployed-engineer-certil-berlin-395999",
       "source": "Arbeitnow"
     },
     {
-      "title": "Full-Stack Developer (m/w/d) – Java/Spring Boot & TypeScript",
-      "company": "P&T Software",
-      "role_group": "Full-Stack",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, Software Development",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/pt-software/full-stack-developer-java-spring-boot-typescript-berlin-318262",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Praktikum PreSales AI Scale Up (m/w/d)",
-      "company": "Flip GmbH",
-      "role_group": "AI / ML",
-      "location": "Remote (Germany)",
-      "salary": "Not specified",
-      "tags": "Sales",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/remote-praktikum-presales-ai-scale-up-43058",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Web Compatibility Engineer",
-      "company": "Duck Duck Go",
+      "title": "Software Engineer: Core",
+      "company": "Constructor",
       "role_group": "Engineering",
       "location": "Remote",
       "salary": "Not specified",
       "tags": "Engineering",
       "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-285874",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Privacy Engineer",
-      "company": "Duck Duck Go",
-      "role_group": "Engineering",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Engineering",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-269228",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673",
       "source": "Arbeitnow"
     },
     {
@@ -121,6 +77,17 @@
       "tags": "Remote, Trade Marketing",
       "published_at": "2026-11-24",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/matchspace-music-ag/music-community-ambassador-first-chair-programme-london-313320",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Business Analyst (Data & Process Transformation)",
+      "company": "Coopers Group AG",
+      "role_group": "Engineering",
+      "location": "Bern",
+      "salary": "Not specified",
+      "tags": "Remote, Consulting, Engineering",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analyst-data-process-transformation-bern-221671",
       "source": "Arbeitnow"
     },
     {
@@ -154,50 +121,6 @@
       "tags": "Product, Remote",
       "published_at": "2026-11-24",
       "url": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "FP&A Specialist, AI Expert (Remote, EMEA)",
-      "company": "Weekday 1",
-      "role_group": "AI / ML",
-      "location": "Switzerland",
-      "salary": "Not specified",
-      "tags": "AI Training, Remote",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/fpa-specialist-ai-expert-remote-emea-switzerland-70963",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Freelance Product Manager – AI for Quality & Regulatory",
-      "company": "Acodis AG",
-      "role_group": "AI / ML",
-      "location": "Zürich",
-      "salary": "Not specified",
-      "tags": "Remote, Product Management",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "AnywhereNow",
-      "role_group": "AI / ML",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Product Development, Remote",
-      "published_at": "2026-11-23",
-      "url": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-ai-engineer-rotterdam-22878",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Cloud Operations Engineer (all genders) CH",
-      "company": "BSI Software",
-      "role_group": "DevOps / Cloud",
-      "location": "Homeoffice",
-      "salary": "Not specified",
-      "tags": "Services, Remote",
-      "published_at": "2026-11-22",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
       "source": "Arbeitnow"
     },
     {
