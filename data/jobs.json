@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-11-24T18:43:35Z",
-  "count": 25,
+  "updated_at": "2026-11-25T00:44:37Z",
+  "count": 24,
   "jobs": [
+    {
+      "title": "Kundenbetreuung, Genehmigungs- & Trainingsmanagement (m/w/d) – Drohnen im professionellen Einsatz",
+      "company": "U-ROB GmbH",
+      "role_group": "AI / ML",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Customer Service",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.com/jobs/companies/u-rob-gmbh/kundenbetreuung-genehmigungs-trainingsmanagement-drohnen-im-professionellen-einsatz-berlin-80511",
+      "source": "Arbeitnow"
+    },
     {
       "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
       "company": "ALPHA Software GmbH",
@@ -25,58 +36,36 @@
       "source": "Arbeitnow"
     },
     {
+      "title": "Frontend Software Engineer",
+      "company": "Newsweek",
+      "role_group": "Frontend",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "IT",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Backend Software Engineer",
+      "company": "Newsweek",
+      "role_group": "Backend",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "IT",
+      "published_at": "2026-11-24",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-backend-software-engineer-206351",
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Senior Marketer, AI Expert (Remote, EMEA)",
       "company": "Weekday 1",
       "role_group": "AI / ML",
-      "location": "Germany",
+      "location": "Switzerland",
       "salary": "Not specified",
       "tags": "AI Training, Remote",
       "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/weekday-1/senior-marketer-ai-expert-remote-emea-germany-468493",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "FP&A Specialist, AI Expert (Remote, EMEA)",
-      "company": "Weekday 1",
-      "role_group": "AI / ML",
-      "location": "Germany",
-      "salary": "Not specified",
-      "tags": "AI Training, Remote",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/weekday-1/fpa-specialist-ai-expert-remote-emea-germany-269881",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Forward Deployed Engineer (m/w/d)- Certil",
-      "company": "Neurawork GmbH & Co. KG",
-      "role_group": "Engineering",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, Software Development",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/forward-deployed-engineer-certil-berlin-395999",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Software Engineer: Core",
-      "company": "Constructor",
-      "role_group": "Engineering",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Engineering",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Music Community Ambassador | First Chair Programme",
-      "company": "Matchspace (Music) AG",
-      "role_group": "AI / ML",
-      "location": "London",
-      "salary": "Not specified",
-      "tags": "Remote, Trade Marketing",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/matchspace-music-ag/music-community-ambassador-first-chair-programme-london-313320",
+      "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/senior-marketer-ai-expert-remote-emea-switzerland-436216",
       "source": "Arbeitnow"
     },
     {
