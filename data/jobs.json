@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-11-25T00:44:37Z",
-  "count": 24,
+  "updated_at": "2026-11-25T06:55:18Z",
+  "count": 25,
   "jobs": [
+    {
+      "title": "AI & Data Engineer",
+      "company": "Reactive Markets",
+      "role_group": "AI / ML",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "Engineering",
+      "published_at": "2026-11-25",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/ai-data-engineer-united-kingdom-492838",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Radiant",
+      "role_group": "Engineering",
+      "location": "United Kingdom - Remote",
+      "salary": "Not specified",
+      "tags": "Engineering",
+      "published_at": "2026-11-25",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-software-engineer-98006",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Kundenbetreuung, Genehmigungs- & Trainingsmanagement (m/w/d) – Drohnen im professionellen Einsatz",
       "company": "U-ROB GmbH",
@@ -99,17 +121,6 @@
       "tags": "Remote, Software Development",
       "published_at": "2026-11-24",
       "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/solution-architect-customer-touchpoints-cloud-transformation-zurich-258035",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Staff Product Engineer ( SaaS / Remote )",
-      "company": "Publitas.com B.V.",
-      "role_group": "Engineering",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Product, Remote",
-      "published_at": "2026-11-24",
-      "url": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256",
       "source": "Arbeitnow"
     },
     {

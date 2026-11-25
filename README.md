@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--25T00%3A44%3A37Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-24-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--25T06%3A55%3A18Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-25-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,10 +9,12 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (24)
+## Latest Remote Tech Openings (25)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [AI & Data Engineer](https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/ai-data-engineer-united-kingdom-492838) | Reactive Markets | `AI / ML` | Remote | Not specified | 2026-11-25 |
+| [Senior Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-software-engineer-98006) | Radiant | `Engineering` | United Kingdom - Remote | Not specified | 2026-11-25 |
 | [Kundenbetreuung, Genehmigungs- & Trainingsmanagement (…](https://www.arbeitnow.com/jobs/companies/u-rob-gmbh/kundenbetreuung-genehmigungs-trainingsmanagement-drohnen-im-professionellen-einsatz-berlin-80511) | U-ROB GmbH | `AI / ML` | Berlin | Not specified | 2026-11-24 |
 | [No-Code Developer (m/w/d) \| Bubble.io \| 100 % Remote](https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-260267) | ALPHA Software GmbH | `Engineering` | Berlin | Not specified | 2026-11-24 |
 | [Partner(m/w/d): Für Interim Manager und Berater: Manda…](https://www.arbeitnow.com/jobs/companies/vovoi-gmbh/partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-420246) | VOVOI GmbH | `AI / ML` | Berlin | Not specified | 2026-11-24 |
@@ -22,7 +24,6 @@
 | [Senior Business Analyst (Data & Process Transformation)](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analyst-data-process-transformation-bern-221671) | Coopers Group AG | `Engineering` | Bern | Not specified | 2026-11-24 |
 | [PKI & IAM Engineer](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/pki-iam-engineer-zurich-300405) | Coopers Group AG | `Engineering` | Zürich | Not specified | 2026-11-24 |
 | [Solution Architect Customer Touchpoints & Cloud Transf…](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/solution-architect-customer-touchpoints-cloud-transformation-zurich-258035) | Coopers Group AG | `DevOps / Cloud` | Zürich | Not specified | 2026-11-24 |
-| [Staff Product Engineer ( SaaS / Remote )](https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256) | Publitas.com B.V. | `Engineering` | Remote job | Not specified | 2026-11-24 |
 | [Content Reviewer - United States](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177) | TELUS Digital | `AI / ML` | USA | $14/hour | 2026-11-19 |
 | [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746) | Mitre Media | `AI / ML` | USA, Canada, USA timezo… | $170k - $200k | 2026-11-14 |
 | [Content Creator - YouTube](https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173) | Metics Media | `AI / ML` | USA, Canada | $85k - $155k | 2026-11-13 |
