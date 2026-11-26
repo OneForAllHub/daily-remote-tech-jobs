@@ -1,6 +1,6 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--25T18%3A38%3A19Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26T00%3A44%3A53Z-brightgreen?style=flat-square)
 ![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-29-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
@@ -13,21 +13,21 @@
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Senior Python Backend Engineer (m/f/x)](https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-python-backend-engineer-berlin-277686) | Makersite GmbH | `Backend` | Remote job | Not specified | 2026-11-25 |
-| [E-Mail Marketing Manager - B2B Kampagnen (m/w/d) \| 10…](https://www.arbeitnow.com/jobs/companies/jmvision-gmbh/e-mail-marketing-manager-b2b-kampagnen-100-remote-berlin-193872) | JMVision GmbH | `AI / ML` | Berlin | Not specified | 2026-11-25 |
-| [(Senior) Java Test Automation Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/ecosio/remote-senior-java-test-automation-engineer-110894) | ecosio | `Backend` | Austria, Spain, UK, Ita… | Not specified | 2026-11-25 |
-| [Full Stack Developer - Java & React (f/m/d)](https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-492442) | ecosio | `Full-Stack` | Austria, Spain, UK, Ita… | Not specified | 2026-11-25 |
-| [Sr Data Platform Engineer](https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-sr-data-platform-engineer-85741) | dataiku | `DevOps / Cloud` | Remote | Not specified | 2026-11-25 |
-| [Fullstack Software Engineer - Core Engineering](https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-469912) | dataiku | `Full-Stack` | Remote | Not specified | 2026-11-25 |
-| [Full Stack Developer (node.js)](https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-full-stack-developer-nodejs-ipswich-333211) | Delta Capita | `Full-Stack` | Remote job | Not specified | 2026-11-25 |
-| [Senior Engineering Team Lead](https://www.arbeitnow.fr/jobs/companies/adikteev/remote-senior-engineering-team-lead-paris-127335) | Adikteev | `Engineering` | Remote job | Not specified | 2026-11-25 |
-| [Développeur Full-Stack (Node.js / React / Flutter)](https://www.arbeitnow.fr/jobs/companies/ohana-entreprise/developpeur-full-stack-nodejs-react-flutter-paris-474619) | OHana Entreprise | `Full-Stack` | Paris | Not specified | 2026-11-25 |
-| [Full-stack Developer](https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-311610) | ADOMIK | `Full-Stack` | Paris | Not specified | 2026-11-25 |
+| [Senior Consultant AI Enablement (m/w/d)](https://www.arbeitnow.com/jobs/companies/junto-education-gmbh/senior-consultant-ai-enablement-berlin-242966) | Junto Education GmbH | `AI / ML` | Berlin | Not specified | 2026-11-25 |
+| [Fachberater:in & Trainer:in für digitale Buchhaltung &…](https://www.arbeitnow.com/jobs/companies/pennylane/remote-fachberaterin-trainerin-fur-digitale-buchhaltung-kanzleiprozesse-43343) | Pennylane | `AI / ML` | Germany (remote) | Not specified | 2026-11-25 |
+| [Solution Consultant - Onboarding & Training Manager -…](https://www.arbeitnow.com/jobs/companies/pennylane/remote-solution-consultant-onboarding-training-manager-tax-accounting-101220) | Pennylane | `AI / ML` | Germany (remote) | Not specified | 2026-11-25 |
+| [Solutions Integration Architect - Ariba](https://www.arbeitnow.com/jobs/companies/zip/solutions-integration-architect-ariba-munich-403891) | Zip | `Engineering` | Remote - Germany | Not specified | 2026-11-25 |
+| [Strategy & Ops Lead, Applied AI](https://www.arbeitnow.com/jobs/companies/clipboard/strategy-ops-lead-applied-ai-berlin-333117) | Clipboard | `AI / ML` | Remote | Not specified | 2026-11-25 |
+| [Organic Growth Manager (SEO & AI Search)](https://www.arbeitnow.com/jobs/companies/cosuno/organic-growth-manager-seo-ai-search-berlin-108729) | Cosuno | `AI / ML` | Berlin/Remote | Not specified | 2026-11-25 |
+| [GTM & Growth Engineer](https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-167597) | Cosuno | `Engineering` | Berlin/Remote | Not specified | 2026-11-25 |
+| [Senior Leadership & AI Enablement Consultant (w/d/m)](https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-leadership-ai-enablement-consultant-berlin-186615) | WEBUILDAI GmbH | `AI / ML` | Berlin | Not specified | 2026-11-25 |
+| [Sr Data Platform Engineer](https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566) | dataiku | `DevOps / Cloud` | Remote | Not specified | 2026-11-25 |
+| [Fullstack Software Engineer - Core Engineering](https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174) | dataiku | `Full-Stack` | Remote | Not specified | 2026-11-25 |
+| [Senior Frontend Developer](https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678) | Divio | `Frontend` | Switzerland | Not specified | 2026-11-25 |
 | [Senior U.I. Programmer - Freelance Talent Pool (2027 O…](https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078) | Keywords Intl1 | `Engineering` | Netherlands | Not specified | 2026-11-25 |
 | [Senior Rendering/ Graphics Engineer - Freelance Talent…](https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-rendering-graphics-engineer-freelance-talent-pool-2027-opportunities-netherlands-358816) | Keywords Intl1 | `Engineering` | Netherlands | Not specified | 2026-11-25 |
 | [Senior A.I. Programmer - Freelance Talent Pool (2027 O…](https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ai-programmer-freelance-talent-pool-2027-opportunities-netherlands-31284) | Keywords Intl1 | `Engineering` | Netherlands | Not specified | 2026-11-25 |
 | [WordPress Theme & Plugin Developer](https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179) | Steward Web Development | `Full-Stack` | Americas, LATAM, Canada… | $57K - $67K | 2026-11-24 |
-| [Senior Marketer, AI Expert (Remote, EMEA)](https://www.arbeitnow.ch/jobs/companies/weekday-1/senior-marketer-ai-expert-remote-emea-switzerland-436216) | Weekday 1 | `AI / ML` | Switzerland | Not specified | 2026-11-24 |
 | [Content Reviewer - United States](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177) | TELUS Digital | `AI / ML` | USA | $14/hour | 2026-11-19 |
 | [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746) | Mitre Media | `AI / ML` | USA, Canada, USA timezo… | $170k - $200k | 2026-11-14 |
 | [Content Creator - YouTube](https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173) | Metics Media | `AI / ML` | USA, Canada | $85k - $155k | 2026-11-13 |
