@@ -1,60 +1,115 @@
 {
-  "updated_at": "2026-11-26T12:56:02Z",
-  "count": 25,
+  "updated_at": "2026-11-26T18:42:22Z",
+  "count": 28,
   "jobs": [
     {
-      "title": "Senior Consultant (m/w/d) SAP Business Intelligence & Data Analytics",
-      "company": "Wedobi Business Solutions GmbH",
-      "role_group": "Data",
+      "title": "Senior Tools Engineer",
+      "company": "Companion Group Ltd",
+      "role_group": "Engineering",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "Engineering, certification",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.com/jobs/companies/companion-group-ltd/remote-senior-tools-engineer-241247",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior SAP Fiori Lead Developer / Technical Lead – Freelance (m/f/d)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "role_group": "Engineering",
       "location": "Berlin",
       "salary": "Not specified",
-      "tags": "Remote, Business Intelligence",
+      "tags": "Remote, SAP/ERP Consulting, Development",
       "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.com/jobs/companies/wedobi-business-solutions-gmbh/senior-consultant-sap-business-intelligence-data-analytics-berlin-165768",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-lead-developer-technical-lead-freelance-berlin-286936",
       "source": "Arbeitnow"
     },
     {
-      "title": "Manager, Engineering - Identity",
-      "company": "Camunda",
-      "role_group": "Engineering",
-      "location": "Remote",
+      "title": "Senior Platform Engineer (w/m/d) (remote within the EU)",
+      "company": "Weflow",
+      "role_group": "DevOps / Cloud",
+      "location": "Berlin",
       "salary": "Not specified",
-      "tags": "Products",
+      "tags": "Remote, System and Network Administration",
       "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-manager-engineering-identity-64436",
+      "url": "https://www.arbeitnow.com/jobs/companies/weflow/senior-platform-engineer-remote-within-the-eu-berlin-387492",
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Product Owner",
-      "company": "Nmi",
-      "role_group": "Engineering",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Product Engineering",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nmi/remote-senior-product-owner-355662",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Sr. Account Executive, Retail Media",
-      "company": "Constructor",
+      "title": "Marketing Manager Google Ads – AI-First Performance Marketing (m/w/d) · Remote",
+      "company": "Evolve Digital GmbH",
       "role_group": "AI / ML",
       "location": "Remote",
       "salary": "Not specified",
-      "tags": "Sales",
+      "tags": "Marketing and pr, vocational",
       "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-sr-account-executive-retail-media-499130",
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/marketing-manager-google-ads-ai-first-performance-marketing-remote-223074",
       "source": "Arbeitnow"
     },
     {
-      "title": "Principal Consultant - Continuing Airworthiness",
-      "company": "TrustFlight",
+      "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
+      "company": "Evolve Digital GmbH",
+      "role_group": "AI / ML",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "Marketing and pr, vocational",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-243211",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "M365 Engineer (m/w/d), 100 % remote",
+      "company": "Kigen IT-Systemhaus",
+      "role_group": "Engineering",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, System and Network Administration",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.com/jobs/companies/kigen-it-systemhaus/m365-engineer-100-remote-berlin-364735",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior SAP Fiori / SAPUI5 Developer – Plant Maintenance (Freelance)",
+      "company": "Sidekick Network GmbH & Co. KG",
+      "role_group": "AI / ML",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, SAP/ERP Consulting, Development",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-sapui5-developer-plant-maintenance-freelance-berlin-298397",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Data Scientist - Research EU/UK (m/f/x)",
+      "company": "Makersite GmbH",
       "role_group": "AI / ML",
       "location": "Remote job",
       "salary": "Not specified",
-      "tags": "Remote",
+      "tags": "Technology, Remote",
       "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/trustflight/remote-principal-consultant-continuing-airworthiness-london-124766",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-247671",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Backend Developer (Go) — Full Remote, European Timezones Only (UTC−1 to UTC+3)",
+      "company": "Jobtome",
+      "role_group": "Backend",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Engineering, Remote",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-337104",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior React Native Engineer",
+      "company": "S-PRO",
+      "role_group": "Frontend",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Mobile Development, Remote",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105",
       "source": "Arbeitnow"
     },
     {
@@ -80,17 +135,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Frontend Developer",
-      "company": "Divio",
-      "role_group": "Frontend",
-      "location": "Switzerland",
-      "salary": "Not specified",
-      "tags": "Engineering, Computer Software, Remote",
-      "published_at": "2026-11-25",
-      "url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Senior U.I. Programmer - Freelance Talent Pool (2027 Opportunities)",
       "company": "Keywords Intl1",
       "role_group": "Engineering",
@@ -99,17 +143,6 @@
       "tags": "Engineering, Computer Games, Game Development, Remote",
       "published_at": "2026-11-25",
       "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Rendering/ Graphics Engineer - Freelance Talent Pool (2027 Opportunities)",
-      "company": "Keywords Intl1",
-      "role_group": "Engineering",
-      "location": "Netherlands",
-      "salary": "Not specified",
-      "tags": "Engineering, Computer Games, Game Development, Remote",
-      "published_at": "2026-11-25",
-      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-rendering-graphics-engineer-freelance-talent-pool-2027-opportunities-netherlands-358816",
       "source": "Arbeitnow"
     },
     {

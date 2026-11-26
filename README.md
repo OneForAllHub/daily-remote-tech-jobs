@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26T12%3A56%3A02Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-25-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26T18%3A42%3A22Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-28-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,20 +9,23 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (25)
+## Latest Remote Tech Openings (28)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Senior Consultant (m/w/d) SAP Business Intelligence &…](https://www.arbeitnow.com/jobs/companies/wedobi-business-solutions-gmbh/senior-consultant-sap-business-intelligence-data-analytics-berlin-165768) | Wedobi Business Solutions G… | `Data` | Berlin | Not specified | 2026-11-26 |
-| [Manager, Engineering - Identity](https://www.arbeitnow.com/jobs/companies/camunda/remote-manager-engineering-identity-64436) | Camunda | `Engineering` | Remote | Not specified | 2026-11-26 |
-| [Senior Product Owner](https://www.arbeitnow.co.uk/jobs/companies/nmi/remote-senior-product-owner-355662) | Nmi | `Engineering` | Remote | Not specified | 2026-11-26 |
-| [Sr. Account Executive, Retail Media](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-sr-account-executive-retail-media-499130) | Constructor | `AI / ML` | Remote | Not specified | 2026-11-26 |
-| [Principal Consultant - Continuing Airworthiness](https://www.arbeitnow.co.uk/jobs/companies/trustflight/remote-principal-consultant-continuing-airworthiness-london-124766) | TrustFlight | `AI / ML` | Remote job | Not specified | 2026-11-26 |
+| [Senior Tools Engineer](https://www.arbeitnow.com/jobs/companies/companion-group-ltd/remote-senior-tools-engineer-241247) | Companion Group Ltd | `Engineering` | Remote | Not specified | 2026-11-26 |
+| [Senior SAP Fiori Lead Developer / Technical Lead – Fre…](https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-lead-developer-technical-lead-freelance-berlin-286936) | Sidekick Network GmbH & Co.… | `Engineering` | Berlin | Not specified | 2026-11-26 |
+| [Senior Platform Engineer (w/m/d) (remote within the EU)](https://www.arbeitnow.com/jobs/companies/weflow/senior-platform-engineer-remote-within-the-eu-berlin-387492) | Weflow | `DevOps / Cloud` | Berlin | Not specified | 2026-11-26 |
+| [Marketing Manager Google Ads – AI-First Performance Ma…](https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/marketing-manager-google-ads-ai-first-performance-marketing-remote-223074) | Evolve Digital GmbH | `AI / ML` | Remote | Not specified | 2026-11-26 |
+| [(Senior) Google Ads Manager – AI-First Performance Mar…](https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-243211) | Evolve Digital GmbH | `AI / ML` | Remote | Not specified | 2026-11-26 |
+| [M365 Engineer (m/w/d), 100 % remote](https://www.arbeitnow.com/jobs/companies/kigen-it-systemhaus/m365-engineer-100-remote-berlin-364735) | Kigen IT-Systemhaus | `Engineering` | Berlin | Not specified | 2026-11-26 |
+| [Senior SAP Fiori / SAPUI5 Developer – Plant Maintenanc…](https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-sapui5-developer-plant-maintenance-freelance-berlin-298397) | Sidekick Network GmbH & Co.… | `AI / ML` | Berlin | Not specified | 2026-11-26 |
+| [Senior Data Scientist - Research EU/UK (m/f/x)](https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-247671) | Makersite GmbH | `AI / ML` | Remote job | Not specified | 2026-11-26 |
+| [Senior Backend Developer (Go) — Full Remote, European…](https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-337104) | Jobtome | `Backend` | Remote job | Not specified | 2026-11-26 |
+| [Senior React Native Engineer](https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105) | S-PRO | `Frontend` | Remote job | Not specified | 2026-11-26 |
 | [Junior Cloud Operations Engineer (all genders) CH](https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099) | BSI Software | `DevOps / Cloud` | Homeoffice | Not specified | 2026-11-26 |
 | [Hoofd Monteur - Beveiligingstechniek - Datacenters - M…](https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-hoofd-monteur-beveiligingstechniek-datacenters-midden-nederland-assendelft-101384) | VDK Groep B.V. | `Engineering` | Werken op afstand | Not specified | 2026-11-26 |
-| [Senior Frontend Developer](https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678) | Divio | `Frontend` | Switzerland | Not specified | 2026-11-25 |
 | [Senior U.I. Programmer - Freelance Talent Pool (2027 O…](https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078) | Keywords Intl1 | `Engineering` | Netherlands | Not specified | 2026-11-25 |
-| [Senior Rendering/ Graphics Engineer - Freelance Talent…](https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-rendering-graphics-engineer-freelance-talent-pool-2027-opportunities-netherlands-358816) | Keywords Intl1 | `Engineering` | Netherlands | Not specified | 2026-11-25 |
 | [WordPress Theme & Plugin Developer](https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179) | Steward Web Development | `Full-Stack` | Americas, LATAM, Canada… | $57K - $67K | 2026-11-24 |
 | [Content Reviewer - United States](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177) | TELUS Digital | `AI / ML` | USA | $14/hour | 2026-11-19 |
 | [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746) | Mitre Media | `AI / ML` | USA, Canada, USA timezo… | $170k - $200k | 2026-11-14 |
