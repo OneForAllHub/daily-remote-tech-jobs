@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-11-26T00:44:53Z",
-  "count": 29,
+  "updated_at": "2026-11-26T06:54:01Z",
+  "count": 24,
   "jobs": [
+    {
+      "title": "Software Sales Consultant (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
+      "role_group": "Engineering",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Remote",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-software-sales-consultant-deutschlandweit-416323",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Senior Consultant AI Enablement (m/w/d)",
       "company": "Junto Education GmbH",
@@ -44,72 +55,6 @@
       "tags": "Engineering",
       "published_at": "2026-11-25",
       "url": "https://www.arbeitnow.com/jobs/companies/zip/solutions-integration-architect-ariba-munich-403891",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Strategy & Ops Lead, Applied AI",
-      "company": "Clipboard",
-      "role_group": "AI / ML",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Operations",
-      "published_at": "2026-11-25",
-      "url": "https://www.arbeitnow.com/jobs/companies/clipboard/strategy-ops-lead-applied-ai-berlin-333117",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Organic Growth Manager (SEO & AI Search)",
-      "company": "Cosuno",
-      "role_group": "AI / ML",
-      "location": "Berlin/Remote",
-      "salary": "Not specified",
-      "tags": "Marketing",
-      "published_at": "2026-11-25",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/organic-growth-manager-seo-ai-search-berlin-108729",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "GTM & Growth Engineer",
-      "company": "Cosuno",
-      "role_group": "Engineering",
-      "location": "Berlin/Remote",
-      "salary": "Not specified",
-      "tags": "Marketing",
-      "published_at": "2026-11-25",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-167597",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Leadership & AI Enablement Consultant (w/d/m)",
-      "company": "WEBUILDAI GmbH",
-      "role_group": "AI / ML",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, Business Consulting",
-      "published_at": "2026-11-25",
-      "url": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-leadership-ai-enablement-consultant-berlin-186615",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Sr Data Platform Engineer",
-      "company": "dataiku",
-      "role_group": "DevOps / Cloud",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Enterprise Data & Analytics",
-      "published_at": "2026-11-25",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Fullstack Software Engineer - Core Engineering",
-      "company": "dataiku",
-      "role_group": "Full-Stack",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Engineering",
-      "published_at": "2026-11-25",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174",
       "source": "Arbeitnow"
     },
     {

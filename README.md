@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26T00%3A44%3A53Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-29-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26T06%3A54%3A01Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-24-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,20 +9,15 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (29)
+## Latest Remote Tech Openings (24)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [Software Sales Consultant (m/w/d)](https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-software-sales-consultant-deutschlandweit-416323) | ANGEHEUERT GmbH | `Engineering` | Homeoffice | Not specified | 2026-11-26 |
 | [Senior Consultant AI Enablement (m/w/d)](https://www.arbeitnow.com/jobs/companies/junto-education-gmbh/senior-consultant-ai-enablement-berlin-242966) | Junto Education GmbH | `AI / ML` | Berlin | Not specified | 2026-11-25 |
 | [Fachberater:in & Trainer:in für digitale Buchhaltung &…](https://www.arbeitnow.com/jobs/companies/pennylane/remote-fachberaterin-trainerin-fur-digitale-buchhaltung-kanzleiprozesse-43343) | Pennylane | `AI / ML` | Germany (remote) | Not specified | 2026-11-25 |
 | [Solution Consultant - Onboarding & Training Manager -…](https://www.arbeitnow.com/jobs/companies/pennylane/remote-solution-consultant-onboarding-training-manager-tax-accounting-101220) | Pennylane | `AI / ML` | Germany (remote) | Not specified | 2026-11-25 |
 | [Solutions Integration Architect - Ariba](https://www.arbeitnow.com/jobs/companies/zip/solutions-integration-architect-ariba-munich-403891) | Zip | `Engineering` | Remote - Germany | Not specified | 2026-11-25 |
-| [Strategy & Ops Lead, Applied AI](https://www.arbeitnow.com/jobs/companies/clipboard/strategy-ops-lead-applied-ai-berlin-333117) | Clipboard | `AI / ML` | Remote | Not specified | 2026-11-25 |
-| [Organic Growth Manager (SEO & AI Search)](https://www.arbeitnow.com/jobs/companies/cosuno/organic-growth-manager-seo-ai-search-berlin-108729) | Cosuno | `AI / ML` | Berlin/Remote | Not specified | 2026-11-25 |
-| [GTM & Growth Engineer](https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-167597) | Cosuno | `Engineering` | Berlin/Remote | Not specified | 2026-11-25 |
-| [Senior Leadership & AI Enablement Consultant (w/d/m)](https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-leadership-ai-enablement-consultant-berlin-186615) | WEBUILDAI GmbH | `AI / ML` | Berlin | Not specified | 2026-11-25 |
-| [Sr Data Platform Engineer](https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566) | dataiku | `DevOps / Cloud` | Remote | Not specified | 2026-11-25 |
-| [Fullstack Software Engineer - Core Engineering](https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174) | dataiku | `Full-Stack` | Remote | Not specified | 2026-11-25 |
 | [Senior Frontend Developer](https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678) | Divio | `Frontend` | Switzerland | Not specified | 2026-11-25 |
 | [Senior U.I. Programmer - Freelance Talent Pool (2027 O…](https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078) | Keywords Intl1 | `Engineering` | Netherlands | Not specified | 2026-11-25 |
 | [Senior Rendering/ Graphics Engineer - Freelance Talent…](https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-rendering-graphics-engineer-freelance-talent-pool-2027-opportunities-netherlands-358816) | Keywords Intl1 | `Engineering` | Netherlands | Not specified | 2026-11-25 |
