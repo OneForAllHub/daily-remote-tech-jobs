@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-11-27T00:49:07Z",
-  "count": 31,
+  "updated_at": "2026-11-27T06:56:48Z",
+  "count": 32,
   "jobs": [
+    {
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "role_group": "DevOps / Cloud",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Customer Cluster Justice, Remote",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-315861",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior GCA Infrastructure Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "role_group": "DevOps / Cloud",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Customer Cluster Defense & Public Security, Remote",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-gca-infrastructure-engineer-bonn-245939",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Cloud DevSecOps Engineer – Software Supply Chain Security (m/w/d)",
+      "company": "virtual7 GmbH",
+      "role_group": "AI / ML",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Customer Cluster Defense & Public Security, Remote",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-cloud-devsecops-engineer-software-supply-chain-security-bonn-331082",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Service Mesh Engineer – Linkerd & Multicluster (m/w/d)",
+      "company": "virtual7 GmbH",
+      "role_group": "Engineering",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Customer Cluster Defense & Public Security, Remote",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-service-mesh-engineer-linkerd-multicluster-bonn-253963",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Engineering Manager, Payments (all genders)",
+      "company": "Distribusion Technologies",
+      "role_group": "Engineering",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Technology, Remote",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-engineering-manager-payments-all-genders-berlin-414704",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
+      "company": "Evolve Digital GmbH",
+      "role_group": "AI / ML",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Operations, Remote",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-198950",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Marketing Manager Google Ads – AI-First Performance Marketing (m/w/d) · Remote",
+      "company": "Evolve Digital GmbH",
+      "role_group": "AI / ML",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Operations, Remote",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/marketing-manager-google-ads-ai-first-performance-marketing-remote-124208",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Video Editor at AIOS — Remote, $1,500-$2,000/month (contract)",
+      "company": "AIOS (YC W20/S21)",
+      "role_group": "AI / ML",
+      "location": "Remote (UK hours)",
+      "salary": "Not specified",
+      "tags": "Growth",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/video-editor-at-aios-remote-1500-2000-month-contract-blackburn-354752",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Security Engineer II",
+      "company": "Kraken",
+      "role_group": "Engineering",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "Security and Privacy",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/remote-security-engineer-ii-482316",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Engineer II - In-Store",
+      "company": "Olo",
+      "role_group": "Engineering",
+      "location": "Belfast, Northern Ireland, Remote",
+      "salary": "Not specified",
+      "tags": "Development",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/olo/remote-software-engineer-ii-in-store-361361",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior DevSecOps Engineer",
+      "company": "360Learning",
+      "role_group": "Engineering",
+      "location": "Paris, Remote",
+      "salary": "Not specified",
+      "tags": "Engineering",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-senior-devsecops-engineer-349434",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Test Engineer",
+      "company": "SwissPeak Partners GmbH",
+      "role_group": "Engineering",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "Software Engineering, Remote",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Webdesigner-/Entwickler – WordPress & AI (m/w/d)",
       "company": "ANY Marketing GmbH",
@@ -22,105 +154,6 @@
       "tags": "Engineering, certification",
       "published_at": "2026-11-26",
       "url": "https://www.arbeitnow.com/jobs/companies/companion-group-ltd/remote-senior-tools-engineer-241247",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior SAP Fiori Lead Developer / Technical Lead – Freelance (m/f/d)",
-      "company": "Sidekick Network GmbH & Co. KG",
-      "role_group": "Engineering",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, SAP/ERP Consulting, Development",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-lead-developer-technical-lead-freelance-berlin-286936",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Platform Engineer (w/m/d) (remote within the EU)",
-      "company": "Weflow",
-      "role_group": "DevOps / Cloud",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, System and Network Administration",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.com/jobs/companies/weflow/senior-platform-engineer-remote-within-the-eu-berlin-387492",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Marketing Manager Google Ads – AI-First Performance Marketing (m/w/d) · Remote",
-      "company": "Evolve Digital GmbH",
-      "role_group": "AI / ML",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Marketing and pr, vocational",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/marketing-manager-google-ads-ai-first-performance-marketing-remote-223074",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
-      "company": "Evolve Digital GmbH",
-      "role_group": "AI / ML",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Marketing and pr, vocational",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-243211",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "M365 Engineer (m/w/d), 100 % remote",
-      "company": "Kigen IT-Systemhaus",
-      "role_group": "Engineering",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, System and Network Administration",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.com/jobs/companies/kigen-it-systemhaus/m365-engineer-100-remote-berlin-364735",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior SAP Fiori / SAPUI5 Developer – Plant Maintenance (Freelance)",
-      "company": "Sidekick Network GmbH & Co. KG",
-      "role_group": "AI / ML",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, SAP/ERP Consulting, Development",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-sapui5-developer-plant-maintenance-freelance-berlin-298397",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI Research Engineer (Multi-Modal Agents)",
-      "company": "Tether Operations Limited",
-      "role_group": "AI / ML",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Data, Remote",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-multi-modal-agents-united-kindom-321418",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior/Principal Product Manager - MLOps",
-      "company": "Radiant",
-      "role_group": "AI / ML",
-      "location": "United Kingdom - Remote",
-      "salary": "Not specified",
-      "tags": "Product",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-principal-product-manager-mlops-56922",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Field Product Engineer",
-      "company": "Radiant",
-      "role_group": "Engineering",
-      "location": "United Kingdom - Remote",
-      "salary": "Not specified",
-      "tags": "Product",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-field-product-engineer-35830",
       "source": "Arbeitnow"
     },
     {
@@ -146,17 +179,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Junior Cloud Operations Engineer (all genders) CH",
-      "company": "BSI Software",
-      "role_group": "DevOps / Cloud",
-      "location": "Homeoffice",
-      "salary": "Not specified",
-      "tags": "Services, Remote",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Hoofd Monteur - Beveiligingstechniek - Datacenters - Midden-Nederland",
       "company": "VDK Groep B.V.",
       "role_group": "Engineering",
@@ -165,17 +187,6 @@
       "tags": "Monteur, Remote",
       "published_at": "2026-11-26",
       "url": "https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-hoofd-monteur-beveiligingstechniek-datacenters-midden-nederland-assendelft-101384",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior U.I. Programmer - Freelance Talent Pool (2027 Opportunities)",
-      "company": "Keywords Intl1",
-      "role_group": "Engineering",
-      "location": "Netherlands",
-      "salary": "Not specified",
-      "tags": "Engineering, Computer Games, Game Development, Remote",
-      "published_at": "2026-11-25",
-      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078",
       "source": "Arbeitnow"
     },
     {
