@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-11-27T17:05:28Z",
-  "count": 26,
+  "updated_at": "2026-11-27T18:41:06Z",
+  "count": 27,
   "jobs": [
+    {
+      "title": "Quality Manager (all genders) – Quality & Sustainability",
+      "company": "mammaly",
+      "role_group": "AI / ML",
+      "location": "Berlin",
+      "salary": "Not specified",
+      "tags": "Remote, Quality Management",
+      "published_at": "2026-11-27",
+      "url": "https://www.arbeitnow.com/jobs/companies/mammaly/quality-manager-all-genders-quality-sustainability-berlin-482784",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Engineering Manager EU/UK (m/f/x)",
       "company": "Makersite GmbH",
@@ -58,7 +69,7 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Backend Developer",
+      "title": "Senior Backend Developer (m/f/d)",
       "company": "SimScale GmbH",
       "role_group": "Backend",
       "location": "Munich",

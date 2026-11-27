@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T17%3A05%3A28Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-26-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T18%3A41%3A06Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-27-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,16 +9,17 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (26)
+## Latest Remote Tech Openings (27)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [Quality Manager (all genders) – Quality & Sustainabili…](https://www.arbeitnow.com/jobs/companies/mammaly/quality-manager-all-genders-quality-sustainability-berlin-482784) | mammaly | `AI / ML` | Berlin | Not specified | 2026-11-27 |
 | [Engineering Manager EU/UK (m/f/x)](https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-eu-uk-berlin-132274) | Makersite GmbH | `Engineering` | Remote job | Not specified | 2026-11-27 |
 | [Senior SRE / Infrastructure Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-sre-infrastructure-engineer-munich-295676) | SimScale GmbH | `DevOps / Cloud` | Munich | Not specified | 2026-11-27 |
 | [Claude AI Automatisierungsexperte (m/w/d)](https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/claude-ai-automatisierungsexperte-berlin-492010) | DPT - Deutsche Prüftechnik… | `AI / ML` | Berlin | Not specified | 2026-11-27 |
 | [Inhouse DevOps / Platform Engineer (m/w/d) - 100% remo…](https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-devops-platform-engineer-100-remote-berlin-320713) | DWWA Personalberatung GmbH | `DevOps / Cloud` | Berlin | Not specified | 2026-11-27 |
 | [Senior Data Migration & Interface Engineer DACH 100% (…](https://www.arbeitnow.com/jobs/companies/sogema-software-gmbh/senior-data-migration-interface-engineer-dach-100-a-berlin-16751) | Sogema Software GmbH | `Engineering` | Berlin | Not specified | 2026-11-27 |
-| [Senior Backend Developer](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-backend-developer-munich-353377) | SimScale GmbH | `Backend` | Munich | Not specified | 2026-11-27 |
+| [Senior Backend Developer (m/f/d)](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-backend-developer-munich-353377) | SimScale GmbH | `Backend` | Munich | Not specified | 2026-11-27 |
 | [DevOps Engineer W/M (remote) 🇪🇺](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420) | Pennylane SAS | `DevOps / Cloud` | Remote | Not specified | 2026-11-27 |
 | [Product Engineer](https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-335504) | Inato | `Engineering` | PARIS OFFICE or REMOTE… | Not specified | 2026-11-27 |
 | [Software Test Engineer](https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909) | SwissPeak Partners GmbH | `Engineering` | Remote job | Not specified | 2026-11-27 |
