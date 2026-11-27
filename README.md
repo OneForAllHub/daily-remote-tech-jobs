@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26T18%3A42%3A22Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-28-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T00%3A49%3A07Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-31-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,10 +9,11 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (28)
+## Latest Remote Tech Openings (31)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [Webdesigner-/Entwickler – WordPress & AI (m/w/d)](https://www.arbeitnow.com/jobs/companies/any-marketing-gmbh/webdesigner-entwickler-wordpress-ai-kaiserslautern-345614) | ANY Marketing GmbH | `AI / ML` | Kaiserslautern | Not specified | 2026-11-26 |
 | [Senior Tools Engineer](https://www.arbeitnow.com/jobs/companies/companion-group-ltd/remote-senior-tools-engineer-241247) | Companion Group Ltd | `Engineering` | Remote | Not specified | 2026-11-26 |
 | [Senior SAP Fiori Lead Developer / Technical Lead – Fre…](https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-lead-developer-technical-lead-freelance-berlin-286936) | Sidekick Network GmbH & Co.… | `Engineering` | Berlin | Not specified | 2026-11-26 |
 | [Senior Platform Engineer (w/m/d) (remote within the EU)](https://www.arbeitnow.com/jobs/companies/weflow/senior-platform-engineer-remote-within-the-eu-berlin-387492) | Weflow | `DevOps / Cloud` | Berlin | Not specified | 2026-11-26 |
@@ -20,7 +21,9 @@
 | [(Senior) Google Ads Manager – AI-First Performance Mar…](https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-243211) | Evolve Digital GmbH | `AI / ML` | Remote | Not specified | 2026-11-26 |
 | [M365 Engineer (m/w/d), 100 % remote](https://www.arbeitnow.com/jobs/companies/kigen-it-systemhaus/m365-engineer-100-remote-berlin-364735) | Kigen IT-Systemhaus | `Engineering` | Berlin | Not specified | 2026-11-26 |
 | [Senior SAP Fiori / SAPUI5 Developer – Plant Maintenanc…](https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-sapui5-developer-plant-maintenance-freelance-berlin-298397) | Sidekick Network GmbH & Co.… | `AI / ML` | Berlin | Not specified | 2026-11-26 |
-| [Senior Data Scientist - Research EU/UK (m/f/x)](https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-247671) | Makersite GmbH | `AI / ML` | Remote job | Not specified | 2026-11-26 |
+| [AI Research Engineer (Multi-Modal Agents)](https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-multi-modal-agents-united-kindom-321418) | Tether Operations Limited | `AI / ML` | Remote job | Not specified | 2026-11-26 |
+| [Senior/Principal Product Manager - MLOps](https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-principal-product-manager-mlops-56922) | Radiant | `AI / ML` | United Kingdom - Remote | Not specified | 2026-11-26 |
+| [Senior Field Product Engineer](https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-field-product-engineer-35830) | Radiant | `Engineering` | United Kingdom - Remote | Not specified | 2026-11-26 |
 | [Senior Backend Developer (Go) — Full Remote, European…](https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-337104) | Jobtome | `Backend` | Remote job | Not specified | 2026-11-26 |
 | [Senior React Native Engineer](https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105) | S-PRO | `Frontend` | Remote job | Not specified | 2026-11-26 |
 | [Junior Cloud Operations Engineer (all genders) CH](https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099) | BSI Software | `DevOps / Cloud` | Homeoffice | Not specified | 2026-11-26 |

@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-11-26T18:42:22Z",
-  "count": 28,
+  "updated_at": "2026-11-27T00:49:07Z",
+  "count": 31,
   "jobs": [
+    {
+      "title": "Webdesigner-/Entwickler – WordPress & AI (m/w/d)",
+      "company": "ANY Marketing GmbH",
+      "role_group": "AI / ML",
+      "location": "Kaiserslautern",
+      "salary": "Not specified",
+      "tags": "Remote, Web Development",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.com/jobs/companies/any-marketing-gmbh/webdesigner-entwickler-wordpress-ai-kaiserslautern-345614",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Senior Tools Engineer",
       "company": "Companion Group Ltd",
@@ -80,14 +91,36 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Senior Data Scientist - Research EU/UK (m/f/x)",
-      "company": "Makersite GmbH",
+      "title": "AI Research Engineer (Multi-Modal Agents)",
+      "company": "Tether Operations Limited",
       "role_group": "AI / ML",
       "location": "Remote job",
       "salary": "Not specified",
-      "tags": "Technology, Remote",
+      "tags": "Data, Remote",
       "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-247671",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-multi-modal-agents-united-kindom-321418",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior/Principal Product Manager - MLOps",
+      "company": "Radiant",
+      "role_group": "AI / ML",
+      "location": "United Kingdom - Remote",
+      "salary": "Not specified",
+      "tags": "Product",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-principal-product-manager-mlops-56922",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Field Product Engineer",
+      "company": "Radiant",
+      "role_group": "Engineering",
+      "location": "United Kingdom - Remote",
+      "salary": "Not specified",
+      "tags": "Product",
+      "published_at": "2026-11-26",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-field-product-engineer-35830",
       "source": "Arbeitnow"
     },
     {
