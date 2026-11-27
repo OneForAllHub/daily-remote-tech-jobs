@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T12%3A52%3A54Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-22-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T17%3A05%3A27Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-26-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,15 +9,19 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (22)
+## Latest Remote Tech Openings (26)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
-| [Platform Security Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/tech-recruitingde/platform-security-engineer-berlin-52976) | Tech-Recruiting.de | `DevOps / Cloud` | Berlin | Not specified | 2026-11-27 |
-| [Senior DevSecOps Engineer](https://www.arbeitnow.fr/jobs/companies/360learning/remote-senior-devsecops-engineer-349434) | 360Learning | `Engineering` | Paris, Remote | Not specified | 2026-11-27 |
+| [Engineering Manager EU/UK (m/f/x)](https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-eu-uk-berlin-132274) | Makersite GmbH | `Engineering` | Remote job | Not specified | 2026-11-27 |
+| [Senior SRE / Infrastructure Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-sre-infrastructure-engineer-munich-295676) | SimScale GmbH | `DevOps / Cloud` | Munich | Not specified | 2026-11-27 |
+| [Claude AI Automatisierungsexperte (m/w/d)](https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/claude-ai-automatisierungsexperte-berlin-492010) | DPT - Deutsche Prüftechnik… | `AI / ML` | Berlin | Not specified | 2026-11-27 |
+| [Inhouse DevOps / Platform Engineer (m/w/d) - 100% remo…](https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-devops-platform-engineer-100-remote-berlin-320713) | DWWA Personalberatung GmbH | `DevOps / Cloud` | Berlin | Not specified | 2026-11-27 |
+| [Senior Data Migration & Interface Engineer DACH 100% (…](https://www.arbeitnow.com/jobs/companies/sogema-software-gmbh/senior-data-migration-interface-engineer-dach-100-a-berlin-16751) | Sogema Software GmbH | `Engineering` | Berlin | Not specified | 2026-11-27 |
+| [Senior Backend Developer](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-backend-developer-munich-353377) | SimScale GmbH | `Backend` | Munich | Not specified | 2026-11-27 |
+| [DevOps Engineer W/M (remote) 🇪🇺](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420) | Pennylane SAS | `DevOps / Cloud` | Remote | Not specified | 2026-11-27 |
+| [Product Engineer](https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-335504) | Inato | `Engineering` | PARIS OFFICE or REMOTE… | Not specified | 2026-11-27 |
 | [Software Test Engineer](https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909) | SwissPeak Partners GmbH | `Engineering` | Remote job | Not specified | 2026-11-27 |
-| [Senior Backend Developer (Go) — Full Remote, European…](https://www.arbeitnow.ch/jobs/companies/jobtome/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3-mendrisio-337104) | Jobtome | `Backend` | Remote job | Not specified | 2026-11-26 |
-| [Senior React Native Engineer](https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105) | S-PRO | `Frontend` | Remote job | Not specified | 2026-11-26 |
 | [Hoofd Monteur - Beveiligingstechniek - Datacenters - M…](https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-hoofd-monteur-beveiligingstechniek-datacenters-midden-nederland-assendelft-101384) | VDK Groep B.V. | `Engineering` | Werken op afstand | Not specified | 2026-11-26 |
 | [Produktspezialist:in (German-speaking)](https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212) | Creative Force | `AI / ML` | Europe, EMEA, Germany,… | Not specified | 2026-11-25 |
 | [WordPress Theme & Plugin Developer](https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179) | Steward Web Development | `Full-Stack` | Americas, LATAM, Canada… | $57K - $67K | 2026-11-24 |
