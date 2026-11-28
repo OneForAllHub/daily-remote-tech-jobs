@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--27T18%3A41%3A06Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-27-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--28T00%3A46%3A24Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-26-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,20 +9,19 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (27)
+## Latest Remote Tech Openings (26)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [Senior DevOps Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-devops-engineer-hamburg-216097) | celebrate company GmbH | `DevOps / Cloud` | Homeoffice | Not specified | 2026-11-27 |
+| [Initiativbewerbung IT, Consulting & Softwareentwicklun…](https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-332055) | BBHT Beratungsgesellschaft… | `Engineering` | Homeoffice | Not specified | 2026-11-27 |
+| [Senior Java Entwickler:in / Java Developer Backend (w/…](https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-java-entwicklerin-java-developer-backend-munster-324776) | BBHT Beratungsgesellschaft… | `Backend` | Homeoffice | Not specified | 2026-11-27 |
+| [Remote Sr. Product Manager (m/f/d)](https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-43710) | Roompricegenie | `Engineering` | Remote Germany | Not specified | 2026-11-27 |
+| [Senior Commercial & AI Solutions Partner](https://www.arbeitnow.com/jobs/companies/yopeso-romania-srl/remote-senior-commercial-ai-solutions-partner-berlin-262836) | Yopeso Romania SRL | `AI / ML` | Remote job | Not specified | 2026-11-27 |
 | [Quality Manager (all genders) – Quality & Sustainabili…](https://www.arbeitnow.com/jobs/companies/mammaly/quality-manager-all-genders-quality-sustainability-berlin-482784) | mammaly | `AI / ML` | Berlin | Not specified | 2026-11-27 |
-| [Engineering Manager EU/UK (m/f/x)](https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-eu-uk-berlin-132274) | Makersite GmbH | `Engineering` | Remote job | Not specified | 2026-11-27 |
-| [Senior SRE / Infrastructure Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-sre-infrastructure-engineer-munich-295676) | SimScale GmbH | `DevOps / Cloud` | Munich | Not specified | 2026-11-27 |
-| [Claude AI Automatisierungsexperte (m/w/d)](https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/claude-ai-automatisierungsexperte-berlin-492010) | DPT - Deutsche Prüftechnik… | `AI / ML` | Berlin | Not specified | 2026-11-27 |
-| [Inhouse DevOps / Platform Engineer (m/w/d) - 100% remo…](https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-devops-platform-engineer-100-remote-berlin-320713) | DWWA Personalberatung GmbH | `DevOps / Cloud` | Berlin | Not specified | 2026-11-27 |
-| [Senior Data Migration & Interface Engineer DACH 100% (…](https://www.arbeitnow.com/jobs/companies/sogema-software-gmbh/senior-data-migration-interface-engineer-dach-100-a-berlin-16751) | Sogema Software GmbH | `Engineering` | Berlin | Not specified | 2026-11-27 |
-| [Senior Backend Developer (m/f/d)](https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-backend-developer-munich-353377) | SimScale GmbH | `Backend` | Munich | Not specified | 2026-11-27 |
+| [Delivery Architect (SAP WM)](https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-delivery-architect-sap-wm-uk-304099) | The Config Team | `Engineering` | Remote job | Not specified | 2026-11-27 |
+| [Senior RWE Program Manager - Data/IA Expert](https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-rwe-program-manager-data-ia-expert-paris-435162) | Excelya | `Engineering` | Paris, France | Not specified | 2026-11-27 |
 | [DevOps Engineer W/M (remote) 🇪🇺](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420) | Pennylane SAS | `DevOps / Cloud` | Remote | Not specified | 2026-11-27 |
-| [Product Engineer](https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-335504) | Inato | `Engineering` | PARIS OFFICE or REMOTE… | Not specified | 2026-11-27 |
-| [Software Test Engineer](https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909) | SwissPeak Partners GmbH | `Engineering` | Remote job | Not specified | 2026-11-27 |
 | [Hoofd Monteur - Beveiligingstechniek - Datacenters - M…](https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-hoofd-monteur-beveiligingstechniek-datacenters-midden-nederland-assendelft-101384) | VDK Groep B.V. | `Engineering` | Werken op afstand | Not specified | 2026-11-26 |
 | [Produktspezialist:in (German-speaking)](https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212) | Creative Force | `AI / ML` | Europe, EMEA, Germany,… | Not specified | 2026-11-25 |
 | [WordPress Theme & Plugin Developer](https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179) | Steward Web Development | `Full-Stack` | Americas, LATAM, Canada… | $57K - $67K | 2026-11-24 |
