@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--28T00%3A46%3A24Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-26-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--28T06%3A51%3A40Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-25-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,20 +9,19 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (26)
+## Latest Remote Tech Openings (25)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [Staff Backend Engineer - Search Features & APIs (SABR)](https://www.arbeitnow.com/jobs/companies/constructor/staff-backend-engineer-search-features-apis-sabr-munich-460585) | Constructor | `Backend` | Remote | Not specified | 2026-11-28 |
+| [Senior Data Scientist (m/f/d)](https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-data-scientist-118803) | Sport Alliance GmbH | `AI / ML` | Remote (Germany) | Not specified | 2026-11-28 |
+| [Teamleiter Jahresabschluss / Steuerberater (m/w/d)](https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-jahresabschluss-steuerberater-dresden-68358) | Hypertrics GmbH | `AI / ML` | Homeoffice | Not specified | 2026-11-28 |
 | [Senior DevOps Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-devops-engineer-hamburg-216097) | celebrate company GmbH | `DevOps / Cloud` | Homeoffice | Not specified | 2026-11-27 |
 | [Initiativbewerbung IT, Consulting & Softwareentwicklun…](https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-332055) | BBHT Beratungsgesellschaft… | `Engineering` | Homeoffice | Not specified | 2026-11-27 |
 | [Senior Java Entwickler:in / Java Developer Backend (w/…](https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-java-entwicklerin-java-developer-backend-munster-324776) | BBHT Beratungsgesellschaft… | `Backend` | Homeoffice | Not specified | 2026-11-27 |
 | [Remote Sr. Product Manager (m/f/d)](https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-43710) | Roompricegenie | `Engineering` | Remote Germany | Not specified | 2026-11-27 |
 | [Senior Commercial & AI Solutions Partner](https://www.arbeitnow.com/jobs/companies/yopeso-romania-srl/remote-senior-commercial-ai-solutions-partner-berlin-262836) | Yopeso Romania SRL | `AI / ML` | Remote job | Not specified | 2026-11-27 |
-| [Quality Manager (all genders) – Quality & Sustainabili…](https://www.arbeitnow.com/jobs/companies/mammaly/quality-manager-all-genders-quality-sustainability-berlin-482784) | mammaly | `AI / ML` | Berlin | Not specified | 2026-11-27 |
-| [Delivery Architect (SAP WM)](https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-delivery-architect-sap-wm-uk-304099) | The Config Team | `Engineering` | Remote job | Not specified | 2026-11-27 |
 | [Senior RWE Program Manager - Data/IA Expert](https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-rwe-program-manager-data-ia-expert-paris-435162) | Excelya | `Engineering` | Paris, France | Not specified | 2026-11-27 |
-| [DevOps Engineer W/M (remote) 🇪🇺](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420) | Pennylane SAS | `DevOps / Cloud` | Remote | Not specified | 2026-11-27 |
-| [Hoofd Monteur - Beveiligingstechniek - Datacenters - M…](https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-hoofd-monteur-beveiligingstechniek-datacenters-midden-nederland-assendelft-101384) | VDK Groep B.V. | `Engineering` | Werken op afstand | Not specified | 2026-11-26 |
 | [Produktspezialist:in (German-speaking)](https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212) | Creative Force | `AI / ML` | Europe, EMEA, Germany,… | Not specified | 2026-11-25 |
 | [WordPress Theme & Plugin Developer](https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179) | Steward Web Development | `Full-Stack` | Americas, LATAM, Canada… | $57K - $67K | 2026-11-24 |
 | [Content Reviewer - United States](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177) | TELUS Digital | `AI / ML` | USA | $14/hour | 2026-11-19 |

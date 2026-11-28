@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-11-28T00:46:24Z",
-  "count": 26,
+  "updated_at": "2026-11-28T06:51:40Z",
+  "count": 25,
   "jobs": [
+    {
+      "title": "Staff Backend Engineer - Search Features & APIs (SABR)",
+      "company": "Constructor",
+      "role_group": "Backend",
+      "location": "Remote",
+      "salary": "Not specified",
+      "tags": "Engineering",
+      "published_at": "2026-11-28",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-backend-engineer-search-features-apis-sabr-munich-460585",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Data Scientist (m/f/d)",
+      "company": "Sport Alliance GmbH",
+      "role_group": "AI / ML",
+      "location": "Remote (Germany)",
+      "salary": "Not specified",
+      "tags": "Data Operations",
+      "published_at": "2026-11-28",
+      "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-data-scientist-118803",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Teamleiter Jahresabschluss / Steuerberater (m/w/d)",
+      "company": "Hypertrics GmbH",
+      "role_group": "AI / ML",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "Remote",
+      "published_at": "2026-11-28",
+      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-jahresabschluss-steuerberater-dresden-68358",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Senior DevOps Engineer (m/w/d)",
       "company": "celebrate company GmbH",
@@ -58,28 +91,6 @@
       "source": "Arbeitnow"
     },
     {
-      "title": "Quality Manager (all genders) – Quality & Sustainability",
-      "company": "mammaly",
-      "role_group": "AI / ML",
-      "location": "Berlin",
-      "salary": "Not specified",
-      "tags": "Remote, Quality Management",
-      "published_at": "2026-11-27",
-      "url": "https://www.arbeitnow.com/jobs/companies/mammaly/quality-manager-all-genders-quality-sustainability-berlin-482784",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Delivery Architect (SAP WM)",
-      "company": "The Config Team",
-      "role_group": "Engineering",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Software (Project Delivery), Remote",
-      "published_at": "2026-11-27",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-delivery-architect-sap-wm-uk-304099",
-      "source": "Arbeitnow"
-    },
-    {
       "title": "Senior RWE Program Manager - Data/IA Expert",
       "company": "Excelya",
       "role_group": "Engineering",
@@ -88,28 +99,6 @@
       "tags": "Consulting, Pharmaceuticals, Operations, Remote",
       "published_at": "2026-11-27",
       "url": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-rwe-program-manager-data-ia-expert-paris-435162",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "DevOps Engineer W/M (remote) 🇪🇺",
-      "company": "Pennylane SAS",
-      "role_group": "DevOps / Cloud",
-      "location": "Remote",
-      "salary": "Not specified",
-      "tags": "Tech",
-      "published_at": "2026-11-27",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Hoofd Monteur - Beveiligingstechniek - Datacenters - Midden-Nederland",
-      "company": "VDK Groep B.V.",
-      "role_group": "Engineering",
-      "location": "Werken op afstand",
-      "salary": "Not specified",
-      "tags": "Monteur, Remote",
-      "published_at": "2026-11-26",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-hoofd-monteur-beveiligingstechniek-datacenters-midden-nederland-assendelft-101384",
       "source": "Arbeitnow"
     },
     {
