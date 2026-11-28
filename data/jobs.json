@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-11-28T06:51:40Z",
-  "count": 25,
+  "updated_at": "2026-11-28T12:42:45Z",
+  "count": 27,
   "jobs": [
+    {
+      "title": "Senior Financial Systems Engineer (m/f/d)",
+      "company": "Berlitz",
+      "role_group": "Engineering",
+      "location": "Germany Remote",
+      "salary": "Not specified",
+      "tags": "Engineering",
+      "published_at": "2026-11-28",
+      "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-financial-systems-engineer-9820",
+      "source": "Arbeitnow"
+    },
     {
       "title": "Staff Backend Engineer - Search Features & APIs (SABR)",
       "company": "Constructor",
@@ -33,6 +44,39 @@
       "tags": "Remote",
       "published_at": "2026-11-28",
       "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-jahresabschluss-steuerberater-dresden-68358",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior Software Engineer, Canvas Core",
+      "company": "Mural",
+      "role_group": "Engineering",
+      "location": "United Kingdom Remote",
+      "salary": "Not specified",
+      "tags": "Engineering",
+      "published_at": "2026-11-28",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mural/remote-senior-software-engineer-canvas-core-86264",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Software Engineer, Clinical AI Devices",
+      "company": "DeepHealth",
+      "role_group": "AI / ML",
+      "location": "Remote job",
+      "salary": "Not specified",
+      "tags": "R&D, Remote",
+      "published_at": "2026-11-28",
+      "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-414322",
+      "source": "Arbeitnow"
+    },
+    {
+      "title": "Senior AI Engineer (Java / Spring Boot / Kafka)",
+      "company": "QuBit Consulting & Solutions AG",
+      "role_group": "AI / ML",
+      "location": "Homeoffice",
+      "salary": "Not specified",
+      "tags": "AI-Engineering & Adoption, Remote",
+      "published_at": "2026-11-28",
+      "url": "https://www.arbeitnow.ch/jobs/companies/qubit-consulting-solutions-ag/remote-senior-ai-engineer-java-spring-boot-kafka-zug-zurich-luzern-bern-127031",
       "source": "Arbeitnow"
     },
     {
@@ -77,17 +121,6 @@
       "tags": "Product & Engineering",
       "published_at": "2026-11-27",
       "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-43710",
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Commercial & AI Solutions Partner",
-      "company": "Yopeso Romania SRL",
-      "role_group": "AI / ML",
-      "location": "Remote job",
-      "salary": "Not specified",
-      "tags": "Sales, Remote",
-      "published_at": "2026-11-27",
-      "url": "https://www.arbeitnow.com/jobs/companies/yopeso-romania-srl/remote-senior-commercial-ai-solutions-partner-berlin-262836",
       "source": "Arbeitnow"
     },
     {
@@ -264,17 +297,6 @@
       "tags": "admin, api, AWS, backend, cloud",
       "published_at": "2026-10-29",
       "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
-      "source": "Remotive"
-    },
-    {
-      "title": "Senior Back-end Developerusa",
-      "company": "Lemon.io",
-      "role_group": "Backend",
-      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
-      "salary": "Not specified",
-      "tags": ".Net, android, C, C#, C++",
-      "published_at": "2026-10-27",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
       "source": "Remotive"
     }
   ]
