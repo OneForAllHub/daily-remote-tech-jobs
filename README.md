@@ -1,7 +1,7 @@
 # Daily Remote Tech & AI Jobs 💼🌍
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--28T12%3A42%3A45Z-brightgreen?style=flat-square)
-![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-27-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--28T18%3A31%3A44Z-brightgreen?style=flat-square)
+![Active Jobs](https://img.shields.io/badge/Remote%20Jobs-24-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
 **Twice-daily auto-updated board of verified remote software engineering, AI/ML, DevOps, and developer jobs.**
@@ -9,7 +9,7 @@
 🌐 **Searchable Job Board:** [https://oneforallhub.github.io/daily-remote-tech-jobs/](https://oneforallhub.github.io/daily-remote-tech-jobs/)
 📦 **JSON:** [`data/jobs.json`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.json) · **CSV:** [`data/jobs.csv`](https://raw.githubusercontent.com/OneForAllHub/daily-remote-tech-jobs/main/data/jobs.csv)
 
-## Latest Remote Tech Openings (27)
+## Latest Remote Tech Openings (24)
 
 | Role | Company | Category | Location | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -21,9 +21,6 @@
 | [Software Engineer, Clinical AI Devices](https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-414322) | DeepHealth | `AI / ML` | Remote job | Not specified | 2026-11-28 |
 | [Senior AI Engineer (Java / Spring Boot / Kafka)](https://www.arbeitnow.ch/jobs/companies/qubit-consulting-solutions-ag/remote-senior-ai-engineer-java-spring-boot-kafka-zug-zurich-luzern-bern-127031) | QuBit Consulting & Solution… | `AI / ML` | Homeoffice | Not specified | 2026-11-28 |
 | [Senior DevOps Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-devops-engineer-hamburg-216097) | celebrate company GmbH | `DevOps / Cloud` | Homeoffice | Not specified | 2026-11-27 |
-| [Initiativbewerbung IT, Consulting & Softwareentwicklun…](https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-332055) | BBHT Beratungsgesellschaft… | `Engineering` | Homeoffice | Not specified | 2026-11-27 |
-| [Senior Java Entwickler:in / Java Developer Backend (w/…](https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-java-entwicklerin-java-developer-backend-munster-324776) | BBHT Beratungsgesellschaft… | `Backend` | Homeoffice | Not specified | 2026-11-27 |
-| [Remote Sr. Product Manager (m/f/d)](https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-43710) | Roompricegenie | `Engineering` | Remote Germany | Not specified | 2026-11-27 |
 | [Senior RWE Program Manager - Data/IA Expert](https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-rwe-program-manager-data-ia-expert-paris-435162) | Excelya | `Engineering` | Paris, France | Not specified | 2026-11-27 |
 | [Produktspezialist:in (German-speaking)](https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212) | Creative Force | `AI / ML` | Europe, EMEA, Germany,… | Not specified | 2026-11-25 |
 | [WordPress Theme & Plugin Developer](https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179) | Steward Web Development | `Full-Stack` | Americas, LATAM, Canada… | $57K - $67K | 2026-11-24 |
